@@ -16,7 +16,8 @@ jobs:
       - name: Directory
         run: pwd
       - name: Directory
-        run: ls
+        run: cd ${{ github.workspace }}
+             ls
       - name: Dotnet run
         run: dotnet run ${{ github.workspace }}/MireaScheduleUpdates/MireaScheduleUpdates.csproj
     
