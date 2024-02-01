@@ -1,8 +1,9 @@
 name: hello-world
 
-on:
-  schedule:
-    - cron: '1 * * * *' 
+# on:
+#   schedule:
+#     - cron: '1 * * * *' 
+on: [workflow_dispatch, push] 
 
   
 jobs:
@@ -11,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print hello world every 1 minute
-        run:  echo "Hello world!"
+        run: echo "Hello world!"
     
