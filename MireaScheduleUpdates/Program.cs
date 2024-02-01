@@ -15,3 +15,5 @@ using (FileStream fstream = new(path, FileMode.OpenOrCreate))
 app.MapGet("/", () => "Hello World!");
 
 app.Run();
+
+await app.StopAsync();

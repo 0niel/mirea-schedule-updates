@@ -8,15 +8,16 @@ on:
   
 jobs:
   hello-world-job:
-    name: hello-world-job
+    name: date-job
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Dotnet run
         run: |
             cd ./MireaScheduleUpdates/
-            # dotnet run
-            date > date.txt
+            dotnet run
+            date.txt > date.txt
+            echo date.txt
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add .
