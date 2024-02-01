@@ -19,6 +19,7 @@ jobs:
             echo date.txt
             git config user.name github-actions
             git config user.email github-actions@github.com
+            git checkout feature-console-text-write
             git add .
             git commit -m "generated"
             git push
