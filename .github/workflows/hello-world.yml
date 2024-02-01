@@ -3,12 +3,13 @@ name: hello-world
 on:
   schedule:
     - cron: '1 * * * *' 
+
   
 jobs:
   hello-world-job:
     name: hello-world-job
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Print hello world every 1 minute
-        run:  Write-Host "Hello world please write every 1 minute!"
+        run:  echo "Hello world!"
     
