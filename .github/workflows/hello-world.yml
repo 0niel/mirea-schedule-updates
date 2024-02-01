@@ -15,6 +15,8 @@ jobs:
         run: echo "Hello world!"
       - name: Directory
         run: pwd
+      - name: print of directory
+        run: echo ${{ github.workspace }}
       - name: Dotnet run
-        run: dotnet run ./MireaScheduleUpdates.csproj
+        run: dotnet run ./MireaScheduleUpdates/MireaScheduleUpdates.csproj
     
