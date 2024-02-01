@@ -18,6 +18,6 @@ jobs:
         with:
           dotnet-version: '8.0.x'
           include-prerelease: true
-      - name: Build with dotnet
-        run: dotnet build "MireaScheduleUpdates.csproj" -c Release -o /app/build --no-restore
+      - name: Dotnet run
+        run: dotnet run -c Release
     
