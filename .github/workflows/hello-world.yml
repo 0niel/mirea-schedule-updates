@@ -14,11 +14,12 @@ jobs:
       - name: Echo hello world every 10 minutes
         run: echo "Hello world!"
       - name: Directory
-        run: pwd
-      - name: print of directory
-        run: echo ${{ github.workspace }}
-      - name: cd up
-        run: cd ../../  
+        run: | 
+            pwd
+            echo ${{ github.workspace }}
+            cd ../../  
+            ls
       - name: Dotnet run
-        run: dotnet run ./MireaScheduleUpdates/MireaScheduleUpdates.csproj
+        run: dotnet run
+        working-directory: ./MireaScheduleUpdates
     
