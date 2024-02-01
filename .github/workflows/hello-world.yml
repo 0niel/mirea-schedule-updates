@@ -11,6 +11,15 @@ jobs:
     name: hello-world-job
     runs-on: ubuntu-latest
     steps:
-      - name: Print hello world every 1 minute
+      - name: Echo hello world every 10 minutes
         run: echo "Hello world!"
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '8.0.x'
+          include-prerelease: true
+      - name: Install dependencies
+        run: dotnet restore
+      - name: Build with dotnet
+        run: dotnet build "MireaScheduleUpdates.csproj" -c Release -o /app/build --no-restore
     
