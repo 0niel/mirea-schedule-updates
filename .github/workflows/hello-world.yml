@@ -10,14 +10,14 @@ jobs:
   hello-world-job:
     name: hello-world-job
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./MireaScheduleUpdates
     steps:
       - name: Echo hello world every 10 minutes
         run: echo "Hello world!"
       - name: Directory
         run: pwd
-      - name: Directory
-        run: cd ${{ github.workspace }}
-             ls
       - name: Dotnet run
-        run: dotnet run ${{ github.workspace }}/MireaScheduleUpdates/MireaScheduleUpdates.csproj
+        run: dotnet run MireaScheduleUpdates.csproj
     
