@@ -16,7 +16,6 @@ jobs:
         run: |
             cd ./MireaScheduleUpdates/
             dotnet run
-            date.txt > date.txt
             echo date.txt
             git config user.name github-actions
             git config user.email github-actions@github.com
