@@ -15,4 +15,6 @@ jobs:
       - name: ls test
         run: ls -la ./MireaScheduleUpdates
       - name: Dotnet run
-        run: dotnet run MireaScheduleUpdates/MireaScheduleUpdates.csproj
+        run: |
+            cd ./MireaScheduleUpdates/
+            dotnet run
