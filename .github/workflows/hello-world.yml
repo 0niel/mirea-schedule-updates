@@ -13,11 +13,6 @@ jobs:
     steps:
       - name: Echo hello world every 10 minutes
         run: echo "Hello world!"
-      - name: Set up .NET Core
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '8.0.x'
-          include-prerelease: true
       - name: Dotnet run
-        run: dotnet run -c Release
+        run: dotnet run -c Release --project "MireaScheduleUpdates/MireaScheduleUpdates.csproj"
     
