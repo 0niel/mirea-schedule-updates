@@ -3,7 +3,8 @@ name: hello-world
 on:
   schedule:
     - cron: '10 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
+  push:
 
   
 jobs:
@@ -16,7 +17,7 @@ jobs:
         run: |
             # cd ./MireaScheduleUpdates/
             # dotnet run
-            date.txt > date.txt
+            date > date.txt
             cat date.txt
             git config user.name "GitHub Actions Bot"
             git config user.email "<>"
