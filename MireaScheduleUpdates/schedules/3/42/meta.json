@@ -1,0 +1,9 @@
+{
+  "id": 42,
+  "targetTitle": "149 (С-20)",
+  "fullTitle": "149 (С-20)",
+  "scheduleTarget": 3,
+  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/42",
+  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=42&asImage=True",
+  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=42&asImage=True"
+}

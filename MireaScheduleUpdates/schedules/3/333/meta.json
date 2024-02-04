@@ -1,0 +1,9 @@
+{
+  "id": 333,
+  "targetTitle": "Б-425 (В-78)",
+  "fullTitle": "Б-425 (В-78)",
+  "scheduleTarget": 3,
+  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/333",
+  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=333&asImage=True",
+  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=333&asImage=True"
+}

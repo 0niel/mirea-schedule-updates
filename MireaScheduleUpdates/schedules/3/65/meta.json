@@ -1,0 +1,9 @@
+{
+  "id": 65,
+  "targetTitle": "ИВЦ-105-1 (В-78)",
+  "fullTitle": "ИВЦ-105-1 (В-78)",
+  "scheduleTarget": 3,
+  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/65",
+  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=65&asImage=True",
+  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=65&asImage=True"
+}
