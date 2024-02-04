@@ -1,19 +1,16 @@
-using System.Text;
+using LibGit2Sharp;
 
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+File.WriteAllText("date.txt", DateTimeOffset.UtcNow.ToString("O"));
 
-string path = @"date.txt";
-string text = DateTime.Now.ToString();
-using (FileStream fstream = new(path, FileMode.OpenOrCreate))
-{
-    byte[] buffer = Encoding.Default.GetBytes(text);
-    await fstream.WriteAsync(buffer);
-}
+using var repo = new Repository("../");
+Commands.Stage(repo, "*");
+// Create the committer's signature and commit
+var author = new Signature("GitHub Actions Bot", "actions@githib.com", DateTime.Now);
+var committer = author;
 
+// Commit to the repository
+Commit commit = repo.Commit("Commit from code", author, committer);
 
-app.MapGet("/", () => "Hello World!");
-
-app.Run();
-
-await app.StopAsync();
+var remote = repo.Network.Remotes["origin"];
+var options = new PushOptions();
+repo.Network.Push(repo.Branches["main"]);
