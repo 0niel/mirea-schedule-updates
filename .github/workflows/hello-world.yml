@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '10 * * * *'
   workflow_dispatch:
-  push:
-
   
 jobs:
   hello-world-job:
@@ -23,5 +21,4 @@ jobs:
             git config user.email "<>"
             git add .
             git commit -m "generated"
-            git push origin updates
-
+            git push origin main
