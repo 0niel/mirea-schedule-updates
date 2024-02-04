@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: '10 * * * *'
   workflow_dispatch:
-  
+permissions: write-all
+
 jobs:
   hello-world-job:
     name: date-job
