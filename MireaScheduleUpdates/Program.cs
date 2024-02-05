@@ -10,7 +10,7 @@ var jsonOptions = new JsonSerializerOptions
     WriteIndented = true,
     Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
 };
-var schedulesFolder = new DirectoryInfo("schedules");
+var schedulesFolder = new DirectoryInfo("../schedules");
 
 if (!schedulesFolder.Exists)
 {
@@ -44,17 +44,17 @@ do
         }
         var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "meta.json"));
         await File.WriteAllTextAsync(scheduleFile.FullName, JsonSerializer.Serialize(schedule, jsonOptions));
-        //var scheduleContentQuery = new QueryString()
-        //    .Add("id", schedule.Id.ToString(CultureInfo.InvariantCulture))
-        //    .Add("type", schedule.ScheduleTarget.ToString(CultureInfo.InvariantCulture))
-        //    .ToUriComponent();
-        //var scheduleInfo = new ScheduleStoredInfo
-        //{
-        //    Info = schedule,
-        //    ContentToken = await scheduleClient.GetStringAsync("/schedule/api/schedulecontent" + scheduleContentQuery)
-        //};
-        //var scheduleInfoAsText = JsonSerializer.Serialize(scheduleInfo, jsonOptions);
-        //await File.WriteAllTextAsync(scheduleFile.FullName, scheduleInfoAsText);
+
+        var scheduleContentQuery = new QueryString()
+            .Add("id", schedule.Id.ToString(CultureInfo.InvariantCulture))
+            .Add("target", schedule.ScheduleTarget.ToString(CultureInfo.InvariantCulture))
+            .ToUriComponent();
+
+        var scheduleVersions = await scheduleClient.GetFromJsonAsync<ScheduleHashVersion[]>("/schedule/api/scheduleversion" + scheduleContentQuery);
+
+        var scheduleVersionsFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "versions.json"));
+        await File.WriteAllTextAsync(scheduleVersionsFile.FullName, JsonSerializer.Serialize(scheduleVersions, jsonOptions));
+
         handledSchedules++;
         Console.WriteLine($"Done schedule #{handledSchedules} {schedule.FullTitle}");
     }
@@ -76,17 +76,15 @@ void CommitAndPush()
     repo.Network.Push(repo.Branches["main"]);
 }
 
-public sealed record ScheduleStoredInfo
+
+public sealed class ScheduleHashVersion
 {
-    /// <summary>
-    /// Информация о расписании, возвращенная при поиске
-    /// </summary>
-    public required ScheduleInfo Info { get; set; }
-    /// <summary>
-    /// "Контент" расписания, на основании которого должно производиться сравнение
-    /// </summary>
-    public required string ContentToken { get; set; }
+    [JsonPropertyName("hashVersion")]
+    public int HashVersion { get; set; }
+    [JsonPropertyName("hash")]
+    public required string Hash { get; set; }
 }
+
 
 public sealed record SearchResponse
 {
