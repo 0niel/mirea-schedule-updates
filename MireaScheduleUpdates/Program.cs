@@ -1,64 +1,30 @@
 ﻿using LibGit2Sharp;
-using Microsoft.AspNetCore.Http;
-using System.Globalization;
-using System.Net.Http.Json;
-using System.Text.Json;
-using System.Text.Json.Serialization;
+using MireaScheduleUpdates;
 
-var jsonOptions = new JsonSerializerOptions
-{
-    WriteIndented = true,
-    Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
-};
-var schedulesFolder = new DirectoryInfo("../schedules");
 
-if (!schedulesFolder.Exists)
-{
-    schedulesFolder.Create();
-}
-using var scheduleClient = new HttpClient
-{
-    BaseAddress = new Uri("https://schedule-of.mirea.ru")
-};
+using var scheduleClient = new ScheduleClient();
+var scheduleStore = new SchedulesStore("../schedules");
 
-string? nextPageToken = null;
+
 var handledSchedules = 0;
-do
+await foreach (var schedule in scheduleClient.GetAllSchedules())
 {
-    var query = new QueryString().Add("pageToken", nextPageToken).ToUriComponent();
-    var searchResponse = await scheduleClient.GetFromJsonAsync<SearchResponse>("/schedule/api/search" + query);
-    nextPageToken = searchResponse!.NextPageToken;
+    await scheduleStore.WriteScheduleMeta(schedule);
 
-    foreach (var schedule in searchResponse.Data)
+    var scheduleVersions = await scheduleClient.GetScheduleVersions(schedule);
+
+    await scheduleStore.WriteScheduleVersions(schedule, scheduleVersions);
+
+    handledSchedules++;
+    Console.WriteLine($"Done schedule #{handledSchedules} {schedule.FullTitle}");
+
+    if (handledSchedules > 20)
     {
-        var targetScheduleDir = new DirectoryInfo(Path.Combine(schedulesFolder.FullName, schedule.ScheduleTarget.ToString(CultureInfo.InvariantCulture)));
-        if (!targetScheduleDir.Exists)
-        {
-            targetScheduleDir.Create();
-        }
-
-        var scheduleFilesDir = new DirectoryInfo(Path.Combine(targetScheduleDir.FullName, schedule.Id.ToString(CultureInfo.InvariantCulture)));
-        if (!scheduleFilesDir.Exists)
-        {
-            scheduleFilesDir.Create();
-        }
-        var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "meta.json"));
-        await File.WriteAllTextAsync(scheduleFile.FullName, JsonSerializer.Serialize(schedule, jsonOptions));
-
-        var scheduleContentQuery = new QueryString()
-            .Add("id", schedule.Id.ToString(CultureInfo.InvariantCulture))
-            .Add("target", schedule.ScheduleTarget.ToString(CultureInfo.InvariantCulture))
-            .ToUriComponent();
-
-        var scheduleVersions = await scheduleClient.GetFromJsonAsync<ScheduleHashVersion[]>("/schedule/api/scheduleversion" + scheduleContentQuery);
-
-        var scheduleVersionsFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "versions.json"));
-        await File.WriteAllTextAsync(scheduleVersionsFile.FullName, JsonSerializer.Serialize(scheduleVersions, jsonOptions));
-
-        handledSchedules++;
-        Console.WriteLine($"Done schedule #{handledSchedules} {schedule.FullTitle}");
+        Console.WriteLine("debug stop due too long work");
+        break;
     }
-} while (nextPageToken is not null);
+
+}
 
 void CommitAndPush()
 {
@@ -75,46 +41,3 @@ void CommitAndPush()
     var options = new PushOptions();
     repo.Network.Push(repo.Branches["main"]);
 }
-
-
-public sealed class ScheduleHashVersion
-{
-    [JsonPropertyName("hashVersion")]
-    public int HashVersion { get; set; }
-    [JsonPropertyName("hash")]
-    public required string Hash { get; set; }
-}
-
-
-public sealed record SearchResponse
-{
-    [JsonPropertyName("data")]
-    public ScheduleInfo[] Data { get; set; } = Array.Empty<ScheduleInfo>();
-    [JsonPropertyName("nextPageToken")]
-    public string? NextPageToken { get; set; }
-}
-
-public sealed record ScheduleInfo
-{
-    [JsonPropertyName("id")]
-    public int Id { get; set; }
-
-    [JsonPropertyName("targetTitle")]
-    public string TargetTitle { get; set; } = default!;
-
-    [JsonPropertyName("fullTitle")]
-    public string FullTitle { get; set; } = default!;
-
-    [JsonPropertyName("scheduleTarget")]
-    public int ScheduleTarget { get; set; }
-
-    [JsonPropertyName("iCalLink")]
-    public string ICalLink { get; set; } = default!;
-
-    [JsonPropertyName("scheduleImageLink")]
-    public string ScheduleImageLink { get; set; } = default!;
-
-    [JsonPropertyName("scheduleUpdateImageLink")]
-    public string ScheduleUpdateImageLink { get; set; } = default!;
-}
-
