@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MireaScheduleUpdates", "MireaScheduleUpdates.csproj", "{0D6EEBC4-CFDB-4150-9E9B-06A224DAEA2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MireaScheduleUpdates", "MireaScheduleUpdates.csproj", "{0D6EEBC4-CFDB-4150-9E9B-06A224DAEA2D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F525F0DE-8864-41D8-BC99-94AADACEE435}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
 		..\.github\workflows\hello-world.yml = ..\.github\workflows\hello-world.yml
+		..\listeners.json = ..\listeners.json
 		README.md = README.md
 	EndProjectSection
 EndProject

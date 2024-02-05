@@ -1,0 +1,13 @@
+{
+  "Listeners": [
+    {
+      "Title": "Пачка администратора",
+      "Description": "Уведомление в мессенджер Пачка для мониторинга происходящего",
+      "GithubOwnerUsername": "CAPCHIK",
+      "Endpoint": "https://api.pachca.com/webhooks/{SECRET}",
+      "SendMode": "AllUpdates",
+      "SecretName": "ADMIN_PACHKA_SECRET",
+      "HeaderNameForSecret": null
+    }
+  ]
+}

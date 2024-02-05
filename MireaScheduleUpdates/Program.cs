@@ -1,12 +1,26 @@
 ﻿using LibGit2Sharp;
+using Microsoft.Extensions.Configuration;
 using MireaScheduleUpdates;
+using System.Text.Json;
 
+var listenersFile = new FileInfo("../listeners.json");
+var configuration = new ConfigurationBuilder()
+    .AddJsonFile(listenersFile.FullName, optional: false)
+    .AddEnvironmentVariables()
+    // секреты пользователя от dotnet, id из csproj
+    .AddUserSecrets("43a378d4-74ce-4f3c-80c9-10e608865a46")
+    .Build();
 
+var appConfiguration = new AppConfiguration();
+
+ConfigurationBinder.Bind(configuration, appConfiguration);
+
+using var updatesSender = new UpdatesSender(configuration);
 using var scheduleClient = new ScheduleClient();
 var scheduleStore = new SchedulesStore("../schedules");
-
-
 var updatedSchedules = new List<ScheduleInfo>();
+
+
 
 var handledSchedules = 0;
 await foreach (var schedule in scheduleClient.GetAllSchedules())
@@ -36,7 +50,21 @@ await foreach (var schedule in scheduleClient.GetAllSchedules())
         Console.WriteLine("debug stop due too long work");
         break;
     }
+}
 
+if (updatedSchedules.Count == 0)
+{
+    Console.WriteLine("no updates in schedule");
+    return;
+}
+
+Console.WriteLine($"Found updates in schedules {updatedSchedules.Count}");
+
+var updatesAsArray = updatedSchedules.ToArray();
+foreach (var listener in appConfiguration.Listeners)
+{
+    Console.WriteLine($"Handle listener {listener.Title}");
+    await updatesSender.SendUpdatesToListener(updatesAsArray, listener);
 }
 
 static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] actual)
