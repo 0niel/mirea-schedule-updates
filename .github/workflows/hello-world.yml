@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Dotnet run
+        env:
+            ADMIN_PACHKA_SECRET: ${{ secrets.ADMIN_PACHKA_SECRET }}
         run: |
             cd ./MireaScheduleUpdates/
             dotnet run

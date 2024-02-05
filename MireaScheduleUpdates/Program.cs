@@ -44,12 +44,6 @@ await foreach (var schedule in scheduleClient.GetAllSchedules())
 
     handledSchedules++;
     Console.WriteLine($"Done   {scheduleDebugView}");
-
-    if (handledSchedules > 20)
-    {
-        Console.WriteLine("debug stop due too long work");
-        break;
-    }
 }
 
 if (updatedSchedules.Count == 0)
