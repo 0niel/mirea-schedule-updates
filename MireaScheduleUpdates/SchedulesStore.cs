@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Diagnostics;
 using System.Globalization;
-using System.Linq;
-using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace MireaScheduleUpdates;
 
-internal class SchedulesStore
+public class SchedulesStore
 {
     private static readonly JsonSerializerOptions jsonOptions = new JsonSerializerOptions
     {
@@ -35,13 +31,29 @@ internal class SchedulesStore
         await File.WriteAllTextAsync(scheduleFile.FullName, JsonSerializer.Serialize(schedule, jsonOptions));
     }
 
-    public async Task WriteScheduleVersions(ScheduleInfo schedule, ScheduleHashVersion[] versions)
+    public async Task WriteScheduleVersion(ScheduleInfo schedule, ScheduleHashVersion version)
     {
-        var scheduleFilesDir = GetFolderForSchedule(schedule);
-        var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "versions.json"));
-        await File.WriteAllTextAsync(scheduleFile.FullName, JsonSerializer.Serialize(versions, jsonOptions));
+        var scheduleVersionsFile = GetScheduleVersionsFile(schedule);
+        await File.WriteAllTextAsync(scheduleVersionsFile.FullName, JsonSerializer.Serialize(version, jsonOptions));
     }
 
+
+    public async Task<ScheduleHashVersion?> ReadScheduleVersion(ScheduleInfo schedule)
+    {
+        var scheduleVersionsFile = GetScheduleVersionsFile(schedule);
+        if (!scheduleVersionsFile.Exists)
+        {
+            return null;
+        }
+        return JsonSerializer.Deserialize<ScheduleHashVersion>(await File.ReadAllTextAsync(scheduleVersionsFile.FullName), jsonOptions)
+            ?? throw new UnreachableException("Parsing versions file returns null");
+    }
+    private FileInfo GetScheduleVersionsFile(ScheduleInfo schedule)
+    {
+        var scheduleFilesDir = GetFolderForSchedule(schedule);
+        var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "version.json"));
+        return scheduleFile;
+    }
 
     private DirectoryInfo GetFolderForSchedule(ScheduleInfo schedule)
     {

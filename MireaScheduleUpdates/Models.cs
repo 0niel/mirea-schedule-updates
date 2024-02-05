@@ -33,3 +33,5 @@ public sealed record ScheduleInfo
     [JsonPropertyName("scheduleUpdateImageLink")]
     public string ScheduleUpdateImageLink { get; set; } = default!;
 }
+
+public sealed class IncorrectScheduleDataException(string message) : Exception(message);
