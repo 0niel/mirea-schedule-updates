@@ -53,13 +53,29 @@ if (updatedSchedules.Count == 0)
 }
 
 Console.WriteLine($"Found updates in schedules {updatedSchedules.Count}");
+foreach (var schedule in updatedSchedules)
+{
+    Console.WriteLine($"Updated: {schedule.FullTitle} {schedule.Id} {schedule.ScheduleTarget}");
+}
 
 var updatesAsArray = updatedSchedules.ToArray();
 foreach (var listener in appConfiguration.Listeners)
 {
     Console.WriteLine($"Handle listener {listener.Title}");
-    await updatesSender.SendUpdatesToListener(updatesAsArray, listener);
+    try
+    {
+        await updatesSender.SendUpdatesToListener(updatesAsArray, listener);
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error in listener {listener.Title}");
+        // TODO: переписать сервис на использование logger-а с корректным выводом исключения
+        Console.WriteLine(ex.Message);
+        // TODO: создавать issue для ответственного за обработку
+    }
 }
+var moscowTime = DateTime.UtcNow.AddHours(3);
+CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatesAsArray.Length} updates");
 
 static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] actual)
 {
@@ -78,7 +94,7 @@ static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] 
     return saved.Hash != hashWithSameVersion.Hash;
 }
 
-void CommitAndPush()
+static void CommitAndPush(string commitMessage)
 {
     using var repo = new Repository("../");
     Commands.Stage(repo, "*");
@@ -87,7 +103,7 @@ void CommitAndPush()
     var committer = author;
 
     // Commit to the repository
-    Commit commit = repo.Commit("Commit from code", author, committer);
+    Commit commit = repo.Commit(commitMessage, author, committer);
 
     var remote = repo.Network.Remotes["origin"];
     var options = new PushOptions();
