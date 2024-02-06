@@ -75,7 +75,14 @@ foreach (var listener in appConfiguration.Listeners)
     }
 }
 var moscowTime = DateTime.UtcNow.AddHours(3);
-CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatesAsArray.Length} updates");
+if (appConfiguration.InCI)
+{
+    CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatesAsArray.Length} updates");
+}
+else
+{
+    Console.WriteLine("Skip commit and push due to not in CI, you cat commit manually");
+}
 
 static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] actual)
 {
@@ -94,7 +101,7 @@ static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] 
     return saved.Hash != hashWithSameVersion.Hash;
 }
 
-static void CommitAndPush(string commitMessage)
+void CommitAndPush(string commitMessage)
 {
     using var repo = new Repository("../");
     Commands.Stage(repo, "*");
@@ -106,6 +113,13 @@ static void CommitAndPush(string commitMessage)
     Commit commit = repo.Commit(commitMessage, author, committer);
 
     var remote = repo.Network.Remotes["origin"];
-    var options = new PushOptions();
+    var options = new PushOptions
+    {
+        CredentialsProvider = (url, usernameFromUrl, types) => new UsernamePasswordCredentials
+        {
+            Username = $"x-access-token",
+            Password = configuration.GetValue<string>("GITHUB_TOKEN"),
+        }
+    };
     repo.Network.Push(repo.Branches["main"]);
 }

@@ -14,7 +14,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Dotnet run
         env:
+            InCI: 'true'
             ADMIN_PACHKA_SECRET: ${{ secrets.ADMIN_PACHKA_SECRET }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
             cd ./MireaScheduleUpdates/
             dotnet run

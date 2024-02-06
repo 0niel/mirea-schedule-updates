@@ -4,6 +4,7 @@ namespace MireaScheduleUpdates;
 
 public sealed record AppConfiguration
 {
+    public bool InCI { get; set; }
     public UpdatesListener[] Listeners { get; set; } = [];
 }
 
