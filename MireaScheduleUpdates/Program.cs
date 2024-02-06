@@ -1,7 +1,6 @@
 ﻿using LibGit2Sharp;
 using Microsoft.Extensions.Configuration;
 using MireaScheduleUpdates;
-using System.Text.Json;
 
 var listenersFile = new FileInfo("../listeners.json");
 var configuration = new ConfigurationBuilder()
@@ -121,5 +120,5 @@ void CommitAndPush(string commitMessage)
             Password = configuration.GetValue<string>("GITHUB_TOKEN"),
         }
     };
-    repo.Network.Push(repo.Branches["main"]);
+    repo.Network.Push(repo.Branches["main"], options);
 }
