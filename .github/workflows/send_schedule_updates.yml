@@ -11,9 +11,9 @@ concurrency:
 
 jobs:
   send_schedule_updates:
-    name: date-job
+    name: send schedule updates
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v4
       - name: Dotnet run
