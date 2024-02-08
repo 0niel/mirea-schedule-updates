@@ -1,0 +1,9 @@
+{
+  "id": 1990,
+  "targetTitle": "Фамилия И.",
+  "fullTitle": "Фамилия Имя ",
+  "scheduleTarget": 2,
+  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1990",
+  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1990&asImage=True",
+  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1990&asImage=True"
+}
