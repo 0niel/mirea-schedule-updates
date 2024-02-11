@@ -1,4 +1,4 @@
 {
-  "hashVersion": 1,
-  "hash": "SsCyCwRZelsAm5SVzSlU2wyaBMZITUfyekx8T7VSw4x9uRRtm2o5I4b0vbP86CwE0Yz3NQ6tBNJdcaERnNCrEw=="
+  "hashVersion": 2,
+  "hash": "{\"TypeTitle\":\"\\u043F\\u0440\\u0435\\u043F\\u043E\\u0434\\u0430\\u0432\\u0430\\u0442\\u0435\\u043B\\u044F\",\"Title\":\"\\u0422\\u0440\\u0435\\u0444\\u0438\\u043B\\u043E\\u0432 \\u041D. \\u0410.\",\"LessonTimes\":[{\"InDayNumber\":4,\"Start\":\"14:20\",\"End\":\"15:50\"}],\"MaxLessonNumberInDay\":4,\"TableRows\":{\"Monday\":{\"4\":{\"Odd\":{\"First\":\"\\u042D\\u043B\\u0435\\u043A\\u0442\\u0440\\u043E\\u043C\\u0430\\u0433\\u043D\\u0438\\u0442\\u043D\\u044B\\u0435 \\u043F\\u043E\\u043B\\u044F \\u0438 \\u0432\\u043E\\u043B\\u043D\\u044B\",\"Second\":\"\\u041B\\u041A\",\"Third\":[\"\\u0420\\u0418\\u0411\\u041E-01 02 03 04 05-22\"],\"Fourth\":\"\\u0410-17 (\\u0412-78)\"},\"Even\":{\"First\":\"\\u042D\\u043B\\u0435\\u043A\\u0442\\u0440\\u043E\\u043C\\u0430\\u0433\\u043D\\u0438\\u0442\\u043D\\u044B\\u0435 \\u043F\\u043E\\u043B\\u044F \\u0438 \\u0432\\u043E\\u043B\\u043D\\u044B\",\"Second\":\"\\u041B\\u041A\",\"Third\":[\"\\u0420\\u0418\\u0411\\u041E-01 02 03 04 05-22\"],\"Fourth\":\"\\u0410-17 (\\u0412-78)\"}}}},\"OneDateTables\":[]}"
 }
