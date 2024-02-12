@@ -19,7 +19,7 @@ jobs:
       - name: Dotnet run
         env:
             InCI: 'true'
-            ADMIN_PACHKA_SECRET: ${{ secrets.ADMIN_PACHKA_SECRET }}
+            MOBILE_APP_SECRET: ${{ secrets.MOBILE_APP_SECRET }}
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
             cd ./MireaScheduleUpdates/
