@@ -75,14 +75,7 @@ else
     }
 }
 var moscowTime = DateTime.UtcNow.AddHours(3);
-if (appConfiguration.InCI)
-{
-    CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatedSchedules.Count} updates");
-}
-else
-{
-    Console.WriteLine("Skip commit and push due to not in CI, you cat commit manually");
-}
+CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatedSchedules.Count} updates");
 
 static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] actual)
 {
@@ -105,12 +98,16 @@ void CommitAndPush(string commitMessage)
 {
     using var repo = new Repository("../");
     var status = repo.RetrieveStatus();
-    if (status.IsDirty)
+    if (!status.IsDirty)
     {
         Console.WriteLine("no changes to commit");
         return;
     }
-    
+    if (!appConfiguration.InCI)
+    {
+        Console.WriteLine("Skip commit and push due to not in CI, you can commit manually");
+        return;
+    }
     Commands.Stage(repo, "*");
     // Create the committer's signature and commit
     var author = new Signature("GitHub Actions Bot", "actions@github.com", DateTime.Now);
