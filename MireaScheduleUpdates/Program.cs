@@ -48,35 +48,36 @@ await foreach (var schedule in scheduleClient.GetAllSchedules())
 if (updatedSchedules.Count == 0)
 {
     Console.WriteLine("no updates in schedule");
-    return;
 }
-
-Console.WriteLine($"Found updates in schedules {updatedSchedules.Count}");
-foreach (var schedule in updatedSchedules)
+else
 {
-    Console.WriteLine($"Updated: {schedule.FullTitle} {schedule.Id} {schedule.ScheduleTarget}");
-}
-
-var updatesAsArray = updatedSchedules.ToArray();
-foreach (var listener in appConfiguration.Listeners)
-{
-    Console.WriteLine($"Handle listener {listener.Title}");
-    try
+    Console.WriteLine($"Found updates in schedules {updatedSchedules.Count}");
+    foreach (var schedule in updatedSchedules)
     {
-        await updatesSender.SendUpdatesToListener(updatesAsArray, listener);
+        Console.WriteLine($"Updated: {schedule.FullTitle} {schedule.Id} {schedule.ScheduleTarget}");
     }
-    catch (Exception ex)
+
+    var updatesAsArray = updatedSchedules.ToArray();
+    foreach (var listener in appConfiguration.Listeners)
     {
-        Console.WriteLine($"Error in listener {listener.Title}");
-        // TODO: переписать сервис на использование logger-а с корректным выводом исключения
-        Console.WriteLine(ex.Message);
-        // TODO: создавать issue для ответственного за обработку
+        Console.WriteLine($"Handle listener {listener.Title}");
+        try
+        {
+            await updatesSender.SendUpdatesToListener(updatesAsArray, listener);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error in listener {listener.Title}");
+            // TODO: переписать сервис на использование logger-а с корректным выводом исключения
+            Console.WriteLine(ex.Message);
+            // TODO: создавать issue для ответственного за обработку
+        }
     }
 }
 var moscowTime = DateTime.UtcNow.AddHours(3);
 if (appConfiguration.InCI)
 {
-    CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatesAsArray.Length} updates");
+    CommitAndPush($"{moscowTime:yyyy-MM-dd HH mm} {updatedSchedules.Count} updates");
 }
 else
 {
@@ -103,6 +104,13 @@ static bool IsScheduleUpdated(ScheduleHashVersion? saved, ScheduleHashVersion[] 
 void CommitAndPush(string commitMessage)
 {
     using var repo = new Repository("../");
+    var status = repo.RetrieveStatus();
+    if (status.IsDirty)
+    {
+        Console.WriteLine("no changes to commit");
+        return;
+    }
+    
     Commands.Stage(repo, "*");
     // Create the committer's signature and commit
     var author = new Signature("GitHub Actions Bot", "actions@github.com", DateTime.Now);
