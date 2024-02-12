@@ -8,6 +8,15 @@
       "SendMode": "AllUpdates",
       "SecretName": "ADMIN_PACHKA_SECRET",
       "HeaderNameForSecret": null
+    },
+    {
+      "Title": "Ninja Mirea App",
+      "Description": "Колбэк для пуш уведомлений об изменениях в расписании",
+      "GithubOwnerUsername": "0niel",
+      "Endpoint": "https://app-api.mirea.ninja/api/v1/schedule/webhook/{SECRET}",
+      "SendMode": "AllUpdates",
+      "SecretName": "MOBILE_APP_SECRET",
+      "HeaderNameForSecret": null
     }
   ]
 }
