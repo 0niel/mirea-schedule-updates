@@ -1,4 +1,4 @@
 {
-  "hashVersion": 2,
-  "hash": "{\"TypeTitle\":\"\\u0433\\u0440\\u0443\\u043F\\u043F\\u044B\",\"Title\":\"\\u041A\\u0411\\u041C\\u041E-02-23\",\"LessonTimes\":[{\"InDayNumber\":6,\"Start\":\"18:00\",\"End\":\"19:30\"}],\"MaxLessonNumberInDay\":6,\"TableRows\":{\"Tuesday\":{\"6\":{\"Odd\":{\"First\":\"\\u041E\\u0431\\u0440\\u0430\\u0449\\u0435\\u043D\\u0438\\u0435 \\u043C\\u0435\\u0434\\u0438\\u0446\\u0438\\u043D\\u0441\\u043A\\u0438\\u0445 \\u0438\\u0437\\u0434\\u0435\\u043B\\u0438\\u0439\",\"Second\":\"\\u041B\\u041A\",\"Third\":[\"\\u041C\\u0430\\u043A\\u0430\\u0440\\u043E\\u0432 \\u0412. \\u041D.\"],\"Fourth\":\"\\u0413-320 (\\u0412-78)\"}}}},\"OneDateTables\":[]}"
+  "hashVersion": 3,
+  "hash": "QiCkssJKYltUev8+DeRXC/LDrFahvgwbTF2ecfbyfCG6yVQEaRthPbfLdhliCzGMqMMsOEWyULkqhcz+IgWVBw=="
 }
