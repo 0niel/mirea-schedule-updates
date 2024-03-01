@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 488,
+    "targetTitle": "БЭСО-01-22",
+    "fullTitle": "БЭСО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/488",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=488&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=488&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "93XRUxuTygAOXwSJ99kODWYElMmKFgZlq0nMmYFbsRU1kh3wXhp55t4DIsHl6slD0HLSdcZ/NaDGJ7YKq0mPtQ=="
+  }
+}

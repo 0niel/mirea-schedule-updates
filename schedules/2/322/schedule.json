@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 322,
+    "targetTitle": "Новоженин М. Б.",
+    "fullTitle": "Новоженин Максим Борисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/322",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=322&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=322&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Rx7EMUSQwWlbZ5kwvPoIKmpL6Y/74oYUJrFvmUEXonNV2ipaeI2iykas94K9TfWPiyla/epwWfTyODsgJ5KlFw=="
+  }
+}

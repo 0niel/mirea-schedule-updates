@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 6,
+    "targetTitle": "Багдасарян К. Ф.",
+    "fullTitle": "Багдасарян Карэн Феликсович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/6",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=6&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=6&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "aYo+D4WaylZ3ZY6MDRWTYi1nXhWGNCqwgKN6G4cSTGhLGMSAfWL+UwiaiLuszgs0jia9k5BEAWr03un5PGoX7g=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1083,
+    "targetTitle": "ИНМО-02-23",
+    "fullTitle": "ИНМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1083",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1083&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1083&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "UM+7p1tNezA3VuyX+V8X84+AulEw9nHqXVFA6QQgcLtsLkFzByIy/qerx8YaDKl4pqyBugcHcMhq0K+RTZ5Lzg=="
+  }
+}

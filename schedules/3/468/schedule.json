@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 468,
+    "targetTitle": "Б-209-2 (В-78)",
+    "fullTitle": "Б-209-2 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/468",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=468&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=468&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "YrA/nbmUIlD+M1SMP3CxVzw7XqZExsPSig6j3d+3CFmmn6IO+KUrf7xizph7GKKyLmPdXCuysZoBMcPM0Sp/5w=="
+  }
+}

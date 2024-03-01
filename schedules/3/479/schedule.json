@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 479,
+    "targetTitle": "Л-008 (В-86)",
+    "fullTitle": "Л-008 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/479",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=479&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=479&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Cg8qsO9RqT1EiLXY+OV97vj5tisM0DDAM+XnZuBfAIa14HbEvtGVBvaFwZfSsTZFHsfm1JzWhLI4r6lgs8zyyA=="
+  }
+}

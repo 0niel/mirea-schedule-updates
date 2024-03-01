@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 6,
+    "targetTitle": "БАСО-05-19",
+    "fullTitle": "БАСО-05-19",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/6",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=6&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=6&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "EYdi8XA9m5eWYgnPAu4eWCMIeeyR4j4PbX3KGnD8J0KB2/kg2LGXSwb6dW0wBj6NiitpHWko5TslCikgy//ieA=="
+  }
+}

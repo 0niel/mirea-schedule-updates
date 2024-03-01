@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 122,
+    "targetTitle": "Снедков А. Б.",
+    "fullTitle": "Снедков Александр Борисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/122",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=122&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=122&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "rXjd8SYZPylrzW9aV3McEmQ043ucszz59+4qOv3msOJVEaV4SQv7ZnJ9a4draE1Z3Q6vUcfCMgSC84YkF7YuCg=="
+  }
+}

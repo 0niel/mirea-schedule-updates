@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 852,
+    "targetTitle": "О-117 (В-86)",
+    "fullTitle": "О-117 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/852",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=852&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=852&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sULr+LzoveLecE8jquEDZZ4i4NTw3se1MzSzk+ta8dyf0tTYwEE7MPzbeYWA+Jbav1Md752vwz1cQTad1SBDfA=="
+  }
+}

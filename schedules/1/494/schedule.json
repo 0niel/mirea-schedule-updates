@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 494,
+    "targetTitle": "ИВБО-03-22",
+    "fullTitle": "ИВБО-03-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/494",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=494&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=494&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "UmuBn80o2HxKUM6qMR1eFfLxY0KH4vA1feZ+jkenOjI4+Jgdxh9zq/HviXEZqBdXFp5WmPXQfpw1ebz5ohCFSg=="
+  }
+}

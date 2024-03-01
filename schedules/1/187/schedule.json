@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 187,
+    "targetTitle": "РССО-03-20",
+    "fullTitle": "РССО-03-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/187",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=187&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=187&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "YKeuDkAtc0rYyXUHECjn5e1fBr8K9YZmdaSQ16HloqIK3Ro+ezW0GgszpePHdJaWLJgZ8LCds0w4/az+W0ry3w=="
+  }
+}

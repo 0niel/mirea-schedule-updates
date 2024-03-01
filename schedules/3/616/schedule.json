@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 616,
+    "targetTitle": "Б-412 (В-78)",
+    "fullTitle": "Б-412 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/616",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=616&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=616&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "w8GhmunvHMBTWJdUS8pa21aju7TpbOrL5chYm3l6Hof8zOiK7+La7fUQrKAO5WYNAt39JRjML5L5FNvTr4ps2A=="
+  }
+}

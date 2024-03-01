@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 13,
+    "targetTitle": "Балак П. В.",
+    "fullTitle": "Балак Павел Викторович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/13",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=13&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=13&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "c+3CBnzLvABgMkHyFWKZ/c6etb1bsjVxG+kyg8NDUdpyGlhd7e/9f/TUXigA28pIdOqr9o4wpUBU6Ig+Debwew=="
+  }
+}

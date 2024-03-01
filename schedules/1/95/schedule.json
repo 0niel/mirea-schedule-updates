@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 95,
+    "targetTitle": "ГЭБО-02-20",
+    "fullTitle": "ГЭБО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/95",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=95&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=95&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+RfHqjb/iAyDcVzsYxbF+yZHlAk78/O1KNjyNoFxCfQEB8R9bRqMx+SdiT+xvKrtE1Z81a+doe4PhVhIEt19FA=="
+  }
+}

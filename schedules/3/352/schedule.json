@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 352,
+    "targetTitle": "М-119 (В-86)",
+    "fullTitle": "М-119 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/352",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=352&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=352&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "xfHn1V75yNbE/Lw60gqywqzwOCe4gAVSNWgZ772BvdXCyf0bwNrzOoH7aOPlzX5Kj+lam46iYmtGV+ng/4V6BQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 473,
+    "targetTitle": "Б-304 (МП-1)",
+    "fullTitle": "Б-304 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/473",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=473&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=473&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "riDB8ljTVBY/YfI334+/6tfGVYa3mvcPgD5hWgAMkG5V2pCz429RRfKETvzNAWtR2YybJcXTAYhgZygMtUH7pg=="
+  }
+}

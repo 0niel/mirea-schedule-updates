@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 7,
+    "targetTitle": "Грачев А. С.",
+    "fullTitle": "Грачев Александр Сергеевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/7",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=7&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=7&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "QeCPl1zXNwPxb2Gy26c1hJSPCytSNOiYLWCY3CZ8rP1w7rBCO4VeHtIIz7pvf9JPrVvnBwgGNquW7ocH1qsWRA=="
+  }
+}

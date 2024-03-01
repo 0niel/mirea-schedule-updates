@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 366,
+    "targetTitle": "РКБО-02-21",
+    "fullTitle": "РКБО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/366",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=366&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=366&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ceoW+Eov8zQiMXU+NVOFlklg1jhuZOQDdsTtA9o8RUrJSD+s8KcIr/shZgZVg3gi4c+EPBs7N9bq44MrsM/CoA=="
+  }
+}

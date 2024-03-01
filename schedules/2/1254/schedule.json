@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1254,
+    "targetTitle": "Петров В. И.",
+    "fullTitle": "Петров Владимир Иванович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1254",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1254&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1254&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "6ZzL6e3B6pqxzDEbZ3Pdu2hhqkGvkpEhaTrAKY59r5q7IEKv1r5pSDcVsWyxm6hOkCCww3SNMi19SonScaIEWA=="
+  }
+}

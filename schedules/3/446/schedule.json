@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 446,
+    "targetTitle": "А-256 (МП-1)",
+    "fullTitle": "А-256 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/446",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=446&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=446&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Bu7XsDo5woF924aH/JDwQagB0sLbbhN/ca6hbfl9xhD6ppFzYGJpkNkB1qyPXhtXYahx5pPRTc/fTcDu/3oYpg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 80,
+    "targetTitle": "БЭСО-01-20",
+    "fullTitle": "БЭСО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/80",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=80&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=80&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "vkHX8M8EfTqkM3NP5iB05/cRkZfOgdZMlv18JwyXg9tA5rEw9Z+2ET1HVBQ4pI5h3z3WCbootgCEIV08skx+RA=="
+  }
+}

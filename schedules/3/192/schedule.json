@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 192,
+    "targetTitle": "И-201 (В-78)",
+    "fullTitle": "И-201 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/192",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=192&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=192&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5einaOls+aHR5N3GqANzEngpJtapo6I/9cTt1wIfkeAaEN3bNfVogdP9f4+LuSaXFbrwSle+8vzL2eYVXPKjCw=="
+  }
+}

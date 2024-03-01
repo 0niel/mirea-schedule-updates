@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 143,
+    "targetTitle": "360 (С-20)",
+    "fullTitle": "360 (С-20)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/143",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=143&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=143&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "h1YetuJ+RbBJdg6QBHNq/l/OL3Uqw36auzsUYAa0RWNG5PlrpoQWXr8klnMTznY8GuVboa1a62irIUQj3Ke3EQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1061,
+    "targetTitle": "РГМО-01-22",
+    "fullTitle": "РГМО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1061",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1061&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1061&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "qsvwuBMp1lOoNRRd3rDQf6IcmStukk0+W5dthv5oZZqznAIGfdtpLCFrJrCJDCYe2yLVrW73VwbbMiL8xsX43w=="
+  }
+}

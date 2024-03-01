@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 440,
+    "targetTitle": "ЭЭБО-02-21",
+    "fullTitle": "ЭЭБО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/440",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=440&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=440&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "pDqmPRK76zujm78JFJqs7SyF79rO847StfzVm3oEp0Xp/uAqOmy0TpvaNnCNi4v01L420pmAjv0hIt9ehEsT5Q=="
+  }
+}

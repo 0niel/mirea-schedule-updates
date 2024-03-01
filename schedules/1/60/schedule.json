@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 60,
+    "targetTitle": "БИСО-03-20",
+    "fullTitle": "БИСО-03-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/60",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=60&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=60&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "1nNXkOOpGaucWWcFES7AyHoKYm19f1HNWpe8V8W4WB4GwPug362XwYG4OPROW+zwv/ulbPKXohPlcNqF8XvLCA=="
+  }
+}

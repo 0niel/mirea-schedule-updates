@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 98,
+    "targetTitle": "Кузнецов В. В.",
+    "fullTitle": "Кузнецов Владимир Викторович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/98",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=98&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=98&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "C/+3Kne4uOaLSx62KdYLY5HGS+xjjgA/XKoQyj3eL5cUnIP6Twij+Faj8xd4H5DUtukAI42t7S1wrmlyurhUeg=="
+  }
+}

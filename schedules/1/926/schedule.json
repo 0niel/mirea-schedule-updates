@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 926,
+    "targetTitle": "ХЕБО-05-20",
+    "fullTitle": "ХЕБО-05-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/926",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=926&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=926&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "LXzKzSNS4RYPaFGUcuq9gOQfzuKhFg3sM8Oz+uTplhYI/XlnbSnhnAht/McAGlVN8v9Hi81mhaKWwW1hLG1JfQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 510,
+    "targetTitle": "С-311 (В-86)",
+    "fullTitle": "С-311 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/510",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=510&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=510&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "0BkngwGcpgqKMXW2qDLEoEUsX3kw6VneHdmSprT966VxWE6+qkaoMlPb5aa7TpYgE4IOfxiwj/DCH+eUqRExaA=="
+  }
+}

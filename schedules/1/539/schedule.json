@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 539,
+    "targetTitle": "ИМБО-01-22",
+    "fullTitle": "ИМБО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/539",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=539&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=539&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "xadCmp2EBXTUrykim5rT78XBYAud3M1DZvaASTFlEMHpr2OxIUDABgtHP9AVxyi/O8VISktQ4jrlCNf/034ALw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 86,
+    "targetTitle": "Б-420 (В-78)",
+    "fullTitle": "Б-420 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/86",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=86&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=86&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "bEBpubZ5EHzJduYf1fQ0JwKAkI7sp2DM4x5btGB6LkoqiBy7pb9hg1M+EDQVeV8FwjwMdpErRy3jHJCOX6H66g=="
+  }
+}

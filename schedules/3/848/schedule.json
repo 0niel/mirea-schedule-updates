@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 848,
+    "targetTitle": "Б-208 (МП-1)",
+    "fullTitle": "Б-208 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/848",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=848&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=848&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "8IG3OUEWobN9atIv6j14YpWsOqmleI5J19C2ALb1gtgGVEbI7UmsPQIM/7AXHLYE39YVYf8NmriZ/6sp+0I++Q=="
+  }
+}

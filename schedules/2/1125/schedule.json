@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1125,
+    "targetTitle": "Никонов В. В.",
+    "fullTitle": "Никонов Вячеслав Викторович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1125",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1125&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1125&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "p+MQGo19W4vac83dexFVdTCx0T9dbVppWm+U4XO+cjPrN9wphOrM1FXC4PIir38gADoY3YqURx3uETiEIhmoSg=="
+  }
+}

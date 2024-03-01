@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 74,
+    "targetTitle": "А-204 (В-78)",
+    "fullTitle": "А-204 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/74",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=74&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=74&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "gxWM9eyLLP0BTXPvF7JciBai/dfByJUzeuujOVKvLu9OoTjmGpq2T3+9ZZXbAp4v3kj6wKVZZphf0Zla2twAgQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 321,
+    "targetTitle": "Филимонов А. Б.",
+    "fullTitle": "Филимонов Александр Борисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/321",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=321&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=321&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "O0DyvgStkCV6DW3mP/Rd69v6oL8dj+Qp91z/ewOwSlQRxE4U/+Ft2r8RZ3rDZoUqmYQerx81Fb1xsJQh/PqFpA=="
+  }
+}

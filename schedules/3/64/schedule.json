@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 64,
+    "targetTitle": "Г-213 (В-78)",
+    "fullTitle": "Г-213 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/64",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=64&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=64&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "7lKbTndUNOWeoVHCBIDA9zduq7bEDk62iN2cmpP2JuaJU0CyxyQ7d2TnhhxMgSBLtxVUyl0NpJVDjcHrfcSUvA=="
+  }
+}

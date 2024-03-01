@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 299,
+    "targetTitle": "Е-40 (В-78)",
+    "fullTitle": "Е-40 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/299",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=299&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=299&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "pbxBrRHyos5jlsb2Sjp85e4w89M+BQArO3qFSVJK4FHSEAOq54BAem2297Al1JKzi3MFq7Xn/30adoMDqYyCWg=="
+  }
+}

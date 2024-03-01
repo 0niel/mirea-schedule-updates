@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 22,
+    "targetTitle": "Латыпов И. Т.",
+    "fullTitle": "Латыпов Ильдар Танисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/22",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=22&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=22&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "B5UXssqKA+nashIkbBKBkoO5l4aM80UfaeDCIFac+xe9Jkhp9uHbLUv9M+qsTcIvYCXKtGnY6kI2uRtr6SlWKg=="
+  }
+}

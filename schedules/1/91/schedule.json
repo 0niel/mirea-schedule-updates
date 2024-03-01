@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 91,
+    "targetTitle": "ГСБО-02-20",
+    "fullTitle": "ГСБО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/91",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=91&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=91&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "vfn0eqT08e5GRvlsUasm1Jydt/ZsLYzYF16S2MpQQqADUg0cqcofyGt2e24c78zJ8P5QqrZ4BohUckBwVS6BmA=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1101,
+    "targetTitle": "Емельянов А. М.",
+    "fullTitle": "Емельянов Алексей Михайлович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1101",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1101&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1101&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "9lTqNmKxlFt85mSL6+y8ffxXUsHb3R/cdW/cEsd+fywIlwBFF5cYXtrD7IW2pz8ArRPQG3lgvwsDWlSEYkQP8A=="
+  }
+}

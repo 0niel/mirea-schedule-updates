@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 631,
+    "targetTitle": "Б-202 (МП-1)",
+    "fullTitle": "Б-202 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/631",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=631&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=631&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "uDIfSimgu++P+ckYeI9qx6HM7JZqIeolYyE008Og3i1TLHtd/Yhf14EskgaMygu8wu0He9hPpsOL3UAj9f+RgQ=="
+  }
+}

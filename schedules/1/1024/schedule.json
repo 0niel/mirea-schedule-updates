@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1024,
+    "targetTitle": "УММВ-01-23",
+    "fullTitle": "УММВ-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1024",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1024&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1024&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KI+rzbtdmxD70pO42Bjw9kmIQngFjy1Hxn7sYePWp4RglEwUsirDoOn5fwPfYLTbaaHSN/oo5wuA3nE8D/nHkA=="
+  }
+}

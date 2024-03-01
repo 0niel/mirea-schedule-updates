@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 182,
+    "targetTitle": "РКБО-03-20",
+    "fullTitle": "РКБО-03-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/182",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=182&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=182&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Spt1XUMLA116plu4m1wNgFRmQpS6GdoTOYrmovxPouX22me8ZjyqXiSrlj5Oenr95tZ2beuuBMK6aiY4h17W0w=="
+  }
+}

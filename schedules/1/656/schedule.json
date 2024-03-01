@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 656,
+    "targetTitle": "ЭЛБО-02-22",
+    "fullTitle": "ЭЛБО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/656",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=656&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=656&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KR5TV1VyuLF/QzSD7JeAkiCxIsU07TNiR4VqJTwCx4FFnvvLbxt1/5sdiDbcMW+v/Wd2y8TCN0sP1nJ0XOIDuQ=="
+  }
+}

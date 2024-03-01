@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1123,
+    "targetTitle": "Мельников Д. А.",
+    "fullTitle": "Мельников Дмитрий Анатольевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1123",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1123&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1123&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "d6rujtsp4/oIZu1YV2Yh4CVMWspDZHOZM1nXahorBXnhz1Db3aQaF970UqOJaqKxmS4utoHRZFLBkw1ptQWBLw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 56,
+    "targetTitle": "504 (СГ-22)",
+    "fullTitle": "504 (СГ-22)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/56",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=56&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=56&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Mh0w4FKQg8bE+zmCLQjjZveXVR7jq7TOa1uxgQwHbs07hpzC6cwEC1aE+Ida8AnOreoelNrbwB2s4xVW6dj8DQ=="
+  }
+}

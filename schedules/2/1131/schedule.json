@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1131,
+    "targetTitle": "Пирогов В. В.",
+    "fullTitle": "Пирогов Владимир Викторович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1131",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1131&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1131&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ysQICW2klwykulKg21Z/TrIV79gM0eofx+ZvuPmqB5O86l0RD8/6nhZK2kMvl7OFAK574ggJadbLTYlxCDJT6g=="
+  }
+}

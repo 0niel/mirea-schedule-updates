@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 750,
+    "targetTitle": "Музыка А. А.",
+    "fullTitle": "Музыка Александр Андреевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/750",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=750&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=750&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "DJO8kUz4sP6WmPx1rpavy/JwPCQSR4YO9ZxvuRhGVCk4S5yD04JoZAD5iJCjllYN2cLakAv/Lyx4asm+By5C3w=="
+  }
+}

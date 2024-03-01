@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 404,
+    "targetTitle": "УЭБО-03-21",
+    "fullTitle": "УЭБО-03-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/404",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=404&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=404&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "CbF96uIk5DVMM4Ime7tZhjjCRdKLUMJyOaEB474jixhegbe8H7W1I5R+KuSi+2XBNu+1U9+3H6Q3jSnDs6NT+g=="
+  }
+}

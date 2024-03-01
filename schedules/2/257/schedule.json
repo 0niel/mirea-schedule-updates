@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 257,
+    "targetTitle": "Пяткин В. В.",
+    "fullTitle": "Пяткин Василий Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/257",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=257&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=257&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "IHDW8sujNtwI2jaKhHJbYPfyBcffSoXsT+lE8iVa/O6O48kPdafM4xy19wzrJKDjsRTE+LY80mXX5+7TthZcSQ=="
+  }
+}

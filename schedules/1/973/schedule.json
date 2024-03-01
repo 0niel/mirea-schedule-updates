@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 973,
+    "targetTitle": "ХЕБО-01-21",
+    "fullTitle": "ХЕБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/973",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=973&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=973&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+hCKu4ZvPTBpBgfnmOeVnash41MDPO99ly9cdXnPrQu/z171fay7z6ZrLU+mn1d6xtjzQM+k6GFgZA2kxWllsA=="
+  }
+}

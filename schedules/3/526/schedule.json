@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 526,
+    "targetTitle": "ИВЦ-110 (В-78)",
+    "fullTitle": "ИВЦ-110 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/526",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=526&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=526&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "xVZhcICcWWhE0Sz4cCtpD+wlrwA/eCUj9ngVL3ZkhjOifakgyKGDQYPC9SOLY48ydNfpXoGDqK2B56E5AuPa5w=="
+  }
+}

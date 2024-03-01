@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 583,
+    "targetTitle": "Б-411 (МП-1)",
+    "fullTitle": "Б-411 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/583",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=583&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=583&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "q2IhyZBAzakd1o42d0eDNQz3BFLMndcp2BQqsInVZHKG6OFxNVQy1qFh5wPXtTpel4LSpcfd+uOPHeGY8Ah3bw=="
+  }
+}

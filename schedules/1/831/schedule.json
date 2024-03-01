@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 831,
+    "targetTitle": "РССО-01-23",
+    "fullTitle": "РССО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/831",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=831&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=831&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "RsW38t7xu9LDPuQ/rstGXhU5p2W3veMzOx9vjRLcq+eyN4f6qPsQStEV6P4nhj8WjmSVNXdCfO0wM/m7jJlCXw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 271,
+    "targetTitle": "А-153 (МП-1)",
+    "fullTitle": "А-153 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/271",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=271&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=271&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "XOvxwD8jSNZSghqOkFEOpeUGISelHe3eOld9r6pFqyKUVzgLQOtG4WtlSTH+2Uviq06I1TJcDM367vhqhnoN4g=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 42,
+    "targetTitle": "Журавлев А. И.",
+    "fullTitle": "Журавлев Александр Иванович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/42",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=42&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=42&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "j8XF4Hn36ztX069b+5LijdGPvSF0EwRZeOuRP6GpfPKnt31YPAESiP8Ac9UnUMxq3/1oY8Yia78W0ug0OmAeHg=="
+  }
+}

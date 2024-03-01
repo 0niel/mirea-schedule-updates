@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1333,
+    "targetTitle": "Юркин А. А.",
+    "fullTitle": "Юркин Александр Алексеевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1333",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1333&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1333&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KaAGH9Bio4km85rQjpSKuXckArCBkyOR54IsKBVB8yp0gf/vOZA3ycKKVNJxc5qhKriHhfixrn38a1HXK8KlKg=="
+  }
+}

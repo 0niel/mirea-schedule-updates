@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 40,
+    "targetTitle": "Сигунова Т. А.",
+    "fullTitle": "Сигунова Татьяна Анатольевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/40",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=40&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=40&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "VSsQMEgkQiPm+7GDZ9OwWeEl/DPGplEJ4SRH4ksZGzq85KY1BpdzsuRWiewU+9bQzpIEOyOSGLdWz0H43kKEVQ=="
+  }
+}

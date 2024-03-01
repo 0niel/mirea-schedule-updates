@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 317,
+    "targetTitle": "ИВЦ-117 (В-78)",
+    "fullTitle": "ИВЦ-117 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/317",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=317&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=317&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "PRMeeWpPbdTc35EJ1G76ZmFcV5ingbTfs1l3FADSQ9g8RqoRLdjqLgOL41xV+ksD5aXph1XyUwPJ8Sh6kbd5gQ=="
+  }
+}

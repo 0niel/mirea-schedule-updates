@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 995,
+    "targetTitle": "ББМО-02-23",
+    "fullTitle": "ББМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/995",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=995&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=995&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "uGV58FC84nha95Cao+ZuLwzBh865HbydXGd2yU8eNldV3Lm9os0rXReFXI/5OzTrhWvboZifxwkK99mVLFo7PQ=="
+  }
+}

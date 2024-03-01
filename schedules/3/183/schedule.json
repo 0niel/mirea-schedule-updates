@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 183,
+    "targetTitle": "Г-426 (В-78)",
+    "fullTitle": "Г-426 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/183",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=183&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=183&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "F09C47IqgP+RmDB8uQWDKxXHEtqmJ6LKeOMpR2B7t6vnQFp7pZ7XO6nbPYRWFhCc1j5FmDVypftrjrrRZMR6yQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 405,
+    "targetTitle": "УЮБО-01-21",
+    "fullTitle": "УЮБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/405",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=405&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=405&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "YBhPJbCZy6XlzLAXavRiivFLaLP46EIVyeGRy5MJNV4ScBiAT2bF6g1yJiZEWNIsFZUitYTC4ynKZzz0vRPDeg=="
+  }
+}

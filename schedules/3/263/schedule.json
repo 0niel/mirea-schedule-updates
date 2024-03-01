@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 263,
+    "targetTitle": "А-321 (В-78)",
+    "fullTitle": "А-321 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/263",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=263&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=263&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "OMpVmLrqsYyA51oWSb6oLHfhNtHCr6mgYNiFUvDPmWCcnIlH6fnN4BX18TaHJmg1bPgSW+tNYAv2qPBhnCVyxQ=="
+  }
+}

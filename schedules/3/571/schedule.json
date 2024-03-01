@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 571,
+    "targetTitle": "Б-215 (МП-1)",
+    "fullTitle": "Б-215 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/571",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=571&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=571&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5R/pW4owpfSvbRsHHDyNtm2zhUyOnK55NgB5dNM71R42+qcRt7fMzSRabpPGIbU3cq1D8JRiuFM7u1i0bKYJ0w=="
+  }
+}

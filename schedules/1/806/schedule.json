@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 806,
+    "targetTitle": "КМБО-06-23",
+    "fullTitle": "КМБО-06-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/806",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=806&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=806&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "7BSayNiLqWHG3d5ond9F72LtF7X0BfL1qcvHgQboG4E5VFOdyWtjFrIn4J9cSLbJety9v1EOoT2WzFm02Ah3MA=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 334,
+    "targetTitle": "КВБО-05-21",
+    "fullTitle": "КВБО-05-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/334",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=334&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=334&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Euxgq3UKuns2zH8pkirr8ftb3UMAsY/YotPrJkkH4R2c3b4qpNez+/iX3kkfPiTDty983W91SZXBQs4ws/WJag=="
+  }
+}

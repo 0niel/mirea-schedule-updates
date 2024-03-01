@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 212,
+    "targetTitle": "ХЕБО-06-20",
+    "fullTitle": "ХЕБО-06-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/212",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=212&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=212&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+xUAwrLujV5fm+1D5jWbeIRvzq1kjV1duLbCHU7s04/ORL4JgLauM+ruK4E4nngJc9RnnqSeYq6alEtwGos07Q=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 730,
+    "targetTitle": "Т-305 (В-86)",
+    "fullTitle": "Т-305 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/730",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=730&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=730&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "A0UscK1nu6G8eF3YY5OwoRntoe66VyiAJYOYCtonTvnGbSSAJLuRy9m0wWiMMgcr2uQHzaj+4EkkbLLijycWVA=="
+  }
+}

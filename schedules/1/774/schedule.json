@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 774,
+    "targetTitle": "ИНБО-20-23",
+    "fullTitle": "ИНБО-20-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/774",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=774&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=774&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "F29S92D1gCD00smY+2B91ziG5eqOfbhFNer4XeP+7YVf9O9pB3mufo+SMydN4OcspT1skv3uS9fzDxfvkx80Hw=="
+  }
+}

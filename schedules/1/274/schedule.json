@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 274,
+    "targetTitle": "ИВБО-02-21",
+    "fullTitle": "ИВБО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/274",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=274&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=274&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "v/P+cOKBUwOb/1augXFhWUG0Ocdjjcn5OMcsemb7VRMcTVqMI/hs7eZOpScM7IyVQI60hgHq/NmNwz1DU30L1g=="
+  }
+}

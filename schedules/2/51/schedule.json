@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 51,
+    "targetTitle": "Пономарев А. Н.",
+    "fullTitle": "Пономарев Артем Николаевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/51",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=51&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=51&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "8v8gEAwgMkiFV47McENZiPDoQFEWYwmphWPVQLQE5oq/SDPzbzcGJnTMpB1SiydU5Quha0l/fqvmY1Es4tVzHA=="
+  }
+}

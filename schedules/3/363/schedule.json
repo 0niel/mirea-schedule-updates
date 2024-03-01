@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 363,
+    "targetTitle": "А-225 (МП-1)",
+    "fullTitle": "А-225 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/363",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=363&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=363&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Z97qmqQ4vPP3HZ9Ng2Msss7d+Pv7gPmgMEOst04vS9pfQEP/b3f0xduFzfenZV9Vn8p0BxHQfWRiMgPg1iCsLg=="
+  }
+}

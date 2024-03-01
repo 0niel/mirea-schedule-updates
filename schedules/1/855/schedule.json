@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 855,
+    "targetTitle": "УИБО-07-23",
+    "fullTitle": "УИБО-07-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/855",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=855&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=855&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "l3wVHZU5osLmY8oyFRJrs0ezRd3jwkdhTKFvhBuVJxvM2uBBcXj3tpZ/bD+evUjNMUefdggBShCg6n8ocsA4fQ=="
+  }
+}

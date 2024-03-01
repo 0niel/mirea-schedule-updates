@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 427,
+    "targetTitle": "И-319 (В-78)",
+    "fullTitle": "И-319 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/427",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=427&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=427&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "PvnvZhip2pKzJHVH18xlnUb9febKNMhIfhMsqSRy9PE/WKTllOJd7MBa3sFaEgcljQ5MvHRldOoBtbg9tmgFtA=="
+  }
+}

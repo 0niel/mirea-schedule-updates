@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1337,
+    "targetTitle": "Миронова Н. А.",
+    "fullTitle": "Миронова Надежда Андреевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1337",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1337&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1337&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "31Ba9i35Wg7LYgHcvouSpuo8r6gQIi/qh62tSG5vwLale/WHEt7YLHIxu3ksInqCUPl89n2GxXsWLUC149dXuw=="
+  }
+}

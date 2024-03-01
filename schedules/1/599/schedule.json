@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 599,
+    "targetTitle": "РРБО-01-22",
+    "fullTitle": "РРБО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/599",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=599&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=599&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "J4U9/R6o4GkasbVZaIL3BjPPlIIc3lu7h65YuBKdUzxvajx09iSdejGTSY+ySYQ6C4R9eajDGFiGO0pWGNu08Q=="
+  }
+}

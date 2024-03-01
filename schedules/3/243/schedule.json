@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 243,
+    "targetTitle": "А-451 (МП-1)",
+    "fullTitle": "А-451 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/243",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=243&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=243&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "CXu5QNhxbQomzhcOA0Ul/YgWfqZb9C2uBr0EU7qVDxQi2ZqtSIT+JZPmmxYBcYNlkqAeoOo3QLA+AALTtF2pcQ=="
+  }
+}

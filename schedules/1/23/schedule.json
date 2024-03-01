@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 23,
+    "targetTitle": "БЭСО-06-19",
+    "fullTitle": "БЭСО-06-19",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/23",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=23&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=23&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "90HqEpEb3Ip3hEGRC3Ex4jeSWSepQmn5vZk0pTeC+pgf7PIlQMrGYBN3yzhJbAA9q7I8RR/RhwgBG2zcm8zdmA=="
+  }
+}

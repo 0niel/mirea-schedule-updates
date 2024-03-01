@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 63,
+    "targetTitle": "БПБО-01-20",
+    "fullTitle": "БПБО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/63",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=63&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=63&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "tYTYzaa+w+m3lXy0+Z0ulmAU6CzvDulH2onpZFJnFfsOrWhp4AsSsVvyQkmdGaxOPkH8wpZ3/MuW9+msGqC94A=="
+  }
+}

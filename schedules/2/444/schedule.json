@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 444,
+    "targetTitle": "Хорин И. А.",
+    "fullTitle": "Хорин Иван Анатольевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/444",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=444&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=444&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "HiYCBAqnANO7oNu8S67XSLYmFTzo4QK2VFTQTSklhqk29FEti4wICSiZYCSdymk4NM0dilyGFuywNltmG5N5Mg=="
+  }
+}

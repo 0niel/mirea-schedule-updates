@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 657,
+    "targetTitle": "ЭНБО-01-22",
+    "fullTitle": "ЭНБО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/657",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=657&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=657&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "lbvzK28sR2U4zgA5mSXKPYd+56Fhh5R0MqSN09ZyP/8guJvlX1LD8A1Uvhz9mtr9AHt/nQvDaSdBpLpRilUeow=="
+  }
+}

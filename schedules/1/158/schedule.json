@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 158,
+    "targetTitle": "КМБО-03-20",
+    "fullTitle": "КМБО-03-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/158",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=158&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=158&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "J3G+rrORk/ueeiorfCcaObcsJ/fiemBSDXWwPAAFTIHzdnVc3csYwHiRlinBBlSwLOjtYe0bQRIOVoJh/uwS7w=="
+  }
+}

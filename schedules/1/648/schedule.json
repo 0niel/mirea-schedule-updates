@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 648,
+    "targetTitle": "УЮБО-04-22",
+    "fullTitle": "УЮБО-04-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/648",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=648&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=648&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "X3A+BI/C83pmh8JpYCgkJMqMkaRyfslVcMnYQed3AUmFPn/9oYKbBXC82ucjreKp1y8n6Pg3e42XNDfoepDCfQ=="
+  }
+}

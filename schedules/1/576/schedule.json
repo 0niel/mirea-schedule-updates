@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 576,
+    "targetTitle": "КМБО-05-22",
+    "fullTitle": "КМБО-05-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/576",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=576&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=576&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+b6JUt2EDeJXQCoKZpTXX60LGoucrSZ/Xsyi7/TWHphrN++d84dU9tHzxvwgfSTuRhaU2DU3mhko4lIvHP2dPA=="
+  }
+}

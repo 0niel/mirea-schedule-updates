@@ -23,35 +23,28 @@ public class SchedulesStore
         }
     }
 
-
-    public async Task WriteScheduleMeta(ScheduleInfo schedule)
-    {
-        var scheduleFilesDir = GetFolderForSchedule(schedule);
-        var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "meta.json"));
-        await File.WriteAllTextAsync(scheduleFile.FullName, JsonSerializer.Serialize(schedule, jsonOptions));
-    }
-
     public async Task WriteScheduleVersion(ScheduleInfo schedule, ScheduleHashVersion version)
     {
-        var scheduleVersionsFile = GetScheduleVersionsFile(schedule);
-        await File.WriteAllTextAsync(scheduleVersionsFile.FullName, JsonSerializer.Serialize(version, jsonOptions));
+        var scheduleStoredFile = GetScheduleStoredFile(schedule);
+        var storeObject = new ScheduleStoredInfo { Schedule = schedule, Version = version };
+        await File.WriteAllTextAsync(scheduleStoredFile.FullName, JsonSerializer.Serialize(storeObject, jsonOptions));
     }
 
 
     public async Task<ScheduleHashVersion?> ReadScheduleVersion(ScheduleInfo schedule)
     {
-        var scheduleVersionsFile = GetScheduleVersionsFile(schedule);
+        var scheduleVersionsFile = GetScheduleStoredFile(schedule);
         if (!scheduleVersionsFile.Exists)
         {
             return null;
         }
-        return JsonSerializer.Deserialize<ScheduleHashVersion>(await File.ReadAllTextAsync(scheduleVersionsFile.FullName), jsonOptions)
+        return JsonSerializer.Deserialize<ScheduleStoredInfo>(await File.ReadAllTextAsync(scheduleVersionsFile.FullName), jsonOptions)?.Version
             ?? throw new UnreachableException("Parsing versions file returns null");
     }
-    private FileInfo GetScheduleVersionsFile(ScheduleInfo schedule)
+    private FileInfo GetScheduleStoredFile(ScheduleInfo schedule)
     {
         var scheduleFilesDir = GetFolderForSchedule(schedule);
-        var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "version.json"));
+        var scheduleFile = new FileInfo(Path.Combine(scheduleFilesDir.FullName, "schedule.json"));
         return scheduleFile;
     }
 

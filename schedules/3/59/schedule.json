@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 59,
+    "targetTitle": "А-174-б (В-78)",
+    "fullTitle": "А-174-б (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/59",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=59&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=59&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "v/opWm/0ASMtQRNLvQpUEnDV1saimqWaL2luxU4iZ6m/mXvxYUepcMfE/22n5eat2ZFWDD/GT1AJ86gH0/xPSw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 499,
+    "targetTitle": "Митяков Е. С.",
+    "fullTitle": "Митяков Евгений Сергеевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/499",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=499&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=499&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "bnJFa7PnsYknmpLJK1/RI0eJZKHVapu4HV/hOC88anChcYdOHtPWA3TMy8cjOyksx8O+uSbA3CWOpICVsJjzrA=="
+  }
+}

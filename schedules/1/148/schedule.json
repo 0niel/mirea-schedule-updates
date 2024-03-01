@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 148,
+    "targetTitle": "КББО-02-20",
+    "fullTitle": "КББО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/148",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=148&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=148&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "w1ZomACLTRY6FOxJWdT1X7LopbLVEvClUo62xuLnjljO0+bm9XD/BquiM1G636x6KYblSEsmE7+Zgx5MLDPOIw=="
+  }
+}

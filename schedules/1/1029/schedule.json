@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1029,
+    "targetTitle": "КСМО-02-23",
+    "fullTitle": "КСМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1029",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1029&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1029&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "PzbGhCct1+NGgRlVqaqqfLfg0TtJB/g7TY0/+YzmdTdi5zlZs3hWZhBc5X5nhPpjTYy49KeJJTjWQr4nBj7l2w=="
+  }
+}

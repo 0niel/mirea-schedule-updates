@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 454,
+    "targetTitle": "БББО-10-22",
+    "fullTitle": "БББО-10-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/454",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=454&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=454&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "HBlKxmCnJu/vLF3hNWL2aQTyqdnBngNnWGT7wYsM4fTrzTuecIZYRn3N/h0m1roiJbTu0hs0uw3c/Hlsc5K2Iw=="
+  }
+}

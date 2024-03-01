@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 272,
+    "targetTitle": "В-402 (В-78)",
+    "fullTitle": "В-402 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/272",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=272&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=272&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "xoS4zt8a+LEcghv413LhwMD8i0vLMB/IbTyXx88lCLGZU8kTHYQvudpVisifbudSCRtzzcSe1sLP9F+xYwCkYA=="
+  }
+}

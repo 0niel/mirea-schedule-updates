@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 326,
+    "targetTitle": "КАБО-02-21",
+    "fullTitle": "КАБО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/326",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=326&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=326&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "BlWzvTtY+ZhVhrzzYoj3CwjUR7JyfyJp2PlK0Qep2uwn1OqH540ViqFE7lHWbI1ES/knJ0XeQO93H8mGnk7AsQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 549,
+    "targetTitle": "ИНБО-09-22",
+    "fullTitle": "ИНБО-09-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/549",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=549&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=549&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5Sw1hERIKwkicee42OVfYVt0O016Re6KBfAAvWWwMNjhnQfdn4g/UOmT03kbrkLU9m5b/Kpmwev+St9CrsFKpQ=="
+  }
+}

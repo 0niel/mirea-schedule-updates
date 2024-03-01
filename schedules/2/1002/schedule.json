@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1002,
+    "targetTitle": "Батурина Л. И.",
+    "fullTitle": "Батурина Людмила Ивановна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1002",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1002&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1002&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "s5E9ccaZ5+uN3e94FUAUkLWYGyJK67oTM37trNELxuCniyqSqMN4uVlBh4tpD3aqo1KdVeVJmzTUzNYImOFUZA=="
+  }
+}

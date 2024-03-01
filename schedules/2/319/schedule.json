@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 319,
+    "targetTitle": "Акимов Д. А.",
+    "fullTitle": "Акимов Дмитрий Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/319",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=319&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=319&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "hVVVHMBQwHeFq/EQzy66x+BN35VmGy3oZV2wM8ZhftRMC+4LByOQwEpCdeUG4icD8xJWHK6p8N4GYVhxSe8J8A=="
+  }
+}

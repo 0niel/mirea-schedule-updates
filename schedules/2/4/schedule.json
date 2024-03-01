@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 4,
+    "targetTitle": "Матвиенко В. А.",
+    "fullTitle": "Матвиенко Виталий Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/4",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=4&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=4&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "mQXkiabOYLfQwVcSsZklZJP0YKNat8xJ7ZDRiqgbxQym4M0CXS1x1xlpEQ64qgf6TN31/mHd64SKiBj4GRS5nQ=="
+  }
+}

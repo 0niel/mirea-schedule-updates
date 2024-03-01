@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 943,
+    "targetTitle": "УМБО-04-23",
+    "fullTitle": "УМБО-04-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/943",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=943&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=943&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ZPe6glNJwUZk5BB4MKc09Cb/np81PUUnx0LgRzIqnvq3U0vBJtlKZhEWwyhixbPUJoXfskb+ok6zR1NWa3vy8A=="
+  }
+}

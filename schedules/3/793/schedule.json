@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 793,
+    "targetTitle": "О-314а (В-86)",
+    "fullTitle": "О-314а (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/793",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=793&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=793&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "C6sXWp/CwNeQqmnjh6TuKms/q5AH/dF1ScAXVmw/NvMo0GSaeZVaNOo088auqRNkwa9FKlQ5vrnOaiz7aWW72w=="
+  }
+}

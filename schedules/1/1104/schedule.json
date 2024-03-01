@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1104,
+    "targetTitle": "ТКМО-02-23",
+    "fullTitle": "ТКМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1104",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1104&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1104&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "0DvywB7uEpgQ8oRZ1rolK/rMJF+Q4Co/ERvVD0sdAJFHEtxebG3+RXpK65gba4ZHC6zURsKC+wS8ZTXgUlFGvA=="
+  }
+}

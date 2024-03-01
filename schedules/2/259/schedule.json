@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 259,
+    "targetTitle": "Шахматов А. Н.",
+    "fullTitle": "Шахматов Андрей Николаевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/259",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=259&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=259&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "G6wRH3QDKardZcRpsy0mwALG9iKPmtHVqk4oREVR1v/AxZiKZgoEfFkM16JxjM/wflLbWMdvWnPV9N8TWYfMSw=="
+  }
+}

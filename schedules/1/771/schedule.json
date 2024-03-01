@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 771,
+    "targetTitle": "ИНБО-12-23",
+    "fullTitle": "ИНБО-12-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/771",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=771&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=771&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "HpfQpxKmZmhcfnutWgJ59nVq1p+D3dZmx9eC2C82lZqYHJdyZ56oi5BwUtRI8eVYFm/KTb76x61Ee3UIUPabcA=="
+  }
+}

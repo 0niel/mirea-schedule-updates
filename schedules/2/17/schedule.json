@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 17,
+    "targetTitle": "Короткий В. Н.",
+    "fullTitle": "Короткий Владимир Николаевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/17",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=17&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=17&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "0Heh8CjrgM2Fr/SQ0a28YmPkzxlN+FREfM8KAEBDv/ZGOuo1i+PiOL+QiHnbIzKKDlghtNi5Y01VqMkUmj12sA=="
+  }
+}

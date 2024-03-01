@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 613,
+    "targetTitle": "О-204 (В-86)",
+    "fullTitle": "О-204 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/613",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=613&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=613&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sIIF6ZC7/KlMcgZHG3mfplSn/3yX/2NXmv/u7yM9LL4d3cCn8Jj76vzGS9jMCksG5CSugkbH1MeagHQ90ay/HA=="
+  }
+}

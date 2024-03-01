@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 978,
+    "targetTitle": "УСМО-01-22",
+    "fullTitle": "УСМО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/978",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=978&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=978&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "DK0tZvo0+QLBQY4yxCcVVOI/1/bktZqeAYOIhkUlG2UuNX52S/wmyAXuE0MLSC2skTyxQNieIyQgrGPxvV7KVw=="
+  }
+}

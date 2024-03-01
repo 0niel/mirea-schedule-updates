@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 45,
+    "targetTitle": "Бобровский А. Е.",
+    "fullTitle": "Бобровский Александр Евгеньевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/45",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=45&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=45&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "1CUfDskGFQaBHixmYAo72kiNWAwpLsc+R740qVY1eZyeMzDy1aSpQ0JMdBZuIQ8e6MYTzJpvTPLqsa4udj582Q=="
+  }
+}

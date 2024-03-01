@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 89,
+    "targetTitle": "ГМБО-03-20",
+    "fullTitle": "ГМБО-03-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/89",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=89&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=89&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "x/PJMAOkAhy63Iw5U+luM7MxkeHbFX7gdV557wQYpgzs0NUBoEmWq23sN3gwtBO9WoCB6m9wzETK5yo+Iy6Skg=="
+  }
+}

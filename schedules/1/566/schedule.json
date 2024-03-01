@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 566,
+    "targetTitle": "ККСО-02-22",
+    "fullTitle": "ККСО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/566",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=566&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=566&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "SUrq9W7X+Ujrcs4WYPJ/n/SILHuF57X/c7wGT4OZ6mAt+Ka0Vu47GsafgTU4C0qW3lFxDpxFOX8gRsQj4WjySA=="
+  }
+}

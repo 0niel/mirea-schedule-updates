@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1024,
+    "targetTitle": "Митина Е. Р.",
+    "fullTitle": "Митина Екатерина Романовна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1024",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1024&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1024&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "HRzx/scF8UmLA8L0KS2/mrtZoM6XG8jqbntLZaVt++X0hEl4WZWu+Spae2YxZiaj46fWXnyWlQgXm0cb98ObIQ=="
+  }
+}

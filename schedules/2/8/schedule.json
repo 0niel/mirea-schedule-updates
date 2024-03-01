@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 8,
+    "targetTitle": "Сафрин Ю. А.",
+    "fullTitle": "Сафрин Юрий Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/8",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=8&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=8&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "YUhfTwImUvCG/+3jgKs5PM7XucvM3zgjVi5cb9Awkf/smFN+1fBwRF9qbyqN64UQ7TJnMCZJYkVRibWNAo7rRg=="
+  }
+}

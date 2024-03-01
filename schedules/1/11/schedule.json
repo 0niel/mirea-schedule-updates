@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 11,
+    "targetTitle": "БИСО-01-19",
+    "fullTitle": "БИСО-01-19",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/11",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=11&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=11&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "GKrU9RZCt5A4qzQzZrmwS3DV/B5D5cIysOSfC/fzE+NSwe0V48v2Sc97xl25eU2cJo2zqutMocsKBp7JpcUJ9Q=="
+  }
+}

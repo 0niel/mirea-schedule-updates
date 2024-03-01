@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 637,
+    "targetTitle": "УСБО-01-22",
+    "fullTitle": "УСБО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/637",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=637&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=637&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Zw5bV1zxJz1rKr9vpx5rqsjxjDBab8q1nNcTIJuh87MxTzolMn2aTKdwJICrWSIxIb0Z6PW35CR55By45JwPsg=="
+  }
+}

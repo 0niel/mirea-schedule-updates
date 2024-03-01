@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 595,
+    "targetTitle": "РИБО-05-22",
+    "fullTitle": "РИБО-05-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/595",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=595&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=595&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+KiJgdNV4/UFlcIekaDZg5FRjcY0dCe3L9KBURzOj2+X0hPx7CcYVoO9p+qp7SoXpzvjAMM9OUBjpvv9V26D6A=="
+  }
+}

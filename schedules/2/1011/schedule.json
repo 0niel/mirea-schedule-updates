@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1011,
+    "targetTitle": "Храмцов Д. П.",
+    "fullTitle": "Храмцов Дмитрий Петрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1011",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1011&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1011&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "BDOBlvvHu1okmokeESYl83/YaEdnyAxOcZTp2qPH7g/2reTuULAo+Wpe+7MCQ8E/RN3mbjjg0fGiOuTaMfIObQ=="
+  }
+}

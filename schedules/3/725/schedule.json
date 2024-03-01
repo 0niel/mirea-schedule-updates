@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 725,
+    "targetTitle": "С-404 (В-86)",
+    "fullTitle": "С-404 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/725",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=725&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=725&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "TaztX0OM1xb5IlrBeyHxhjNllTscW4cFJoLus6VxThcBSeN5nAMWQCEY1qTtZBMgaBVNZYQdwiKbsxq7wHdylQ=="
+  }
+}

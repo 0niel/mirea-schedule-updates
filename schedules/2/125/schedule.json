@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 125,
+    "targetTitle": "Акимов Э. М.",
+    "fullTitle": "Акимов Эмиль Муратович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/125",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=125&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=125&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "LfA2fXBeDw4DU1z3s6sOe9owW6OhGgSaSY/GIqyP7p8cfSRfvCRxpmHFlz6eiBsNfWMfi+3zRp8QoZ7075mLKg=="
+  }
+}

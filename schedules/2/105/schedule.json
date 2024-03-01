@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 105,
+    "targetTitle": "Лебедев В. В.",
+    "fullTitle": "Лебедев Владимир Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/105",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=105&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=105&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "21CehpsnXO2ep61fTeq9+vuIQ/lBSxTp5r7kg196iss4M7mqz/tEmen9qVne1RRx5POdbkf94A0o5YhGRl5XRw=="
+  }
+}

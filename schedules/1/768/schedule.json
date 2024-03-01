@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 768,
+    "targetTitle": "ИМБО-11-23",
+    "fullTitle": "ИМБО-11-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/768",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=768&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=768&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "QnmZaEfg8MWry6HHCcurkh6UxUOI+sR9GzDqKzLLlDgsbgDT/iHrosgL/xIW2d1onHZ3IwB7kDM5ZPs2Bfn/6Q=="
+  }
+}

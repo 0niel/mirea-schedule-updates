@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 524,
+    "targetTitle": "Г-109-а (В-78)",
+    "fullTitle": "Г-109-а (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/524",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=524&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=524&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "27mEJnXwUvspIrz3ue3T9ef+Dy5sF4+Qo9IIt+uoDw4HIheEv8TUq5LDIkmh4oT31HZVpvjuJfK9Jd0dLQLKBA=="
+  }
+}

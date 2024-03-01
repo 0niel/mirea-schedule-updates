@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 841,
+    "targetTitle": "Л-010 (В-86)",
+    "fullTitle": "Л-010 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/841",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=841&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=841&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ivreKrmhtfnVRTJz1aG8nkwSUjWwIVNFI16zi/7a76vVwJlA9sw2BInAD5z1GtC8fxTJdcJOEQvkrYEJWioc9g=="
+  }
+}

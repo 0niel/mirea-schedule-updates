@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 178,
+    "targetTitle": "РИБО-02-20",
+    "fullTitle": "РИБО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/178",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=178&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=178&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "xv6MTALIs57NAGZ1MwxejWvhfsYOMInUvX3RPDw1/DpVgydUEtjm4/8rngvjoewlyAby5GsPDIHKT1OpxIz0hQ=="
+  }
+}

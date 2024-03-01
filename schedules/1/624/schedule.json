@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 624,
+    "targetTitle": "УИБО-05-22",
+    "fullTitle": "УИБО-05-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/624",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=624&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=624&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "gTRmMBPR4JoNwtO0cXS0zEjDKdh2hm791DNO2bsgDk4EGd8A8+iFX61TwNjV4qBw+qzU4TFw9MBFh5GZxTCG7A=="
+  }
+}

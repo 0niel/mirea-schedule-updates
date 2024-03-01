@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 193,
+    "targetTitle": "Г-304 (В-78)",
+    "fullTitle": "Г-304 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/193",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=193&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=193&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "HVFZQVtqJ0YB+4dQZcipclssQ2Q0S2qRPLAEdBVEmaRtnuk0lBh7WwFUwx5WtQSTRR/DI2W8MX5Y5FFw5tNLdg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 271,
+    "targetTitle": "БЭСО-03-21",
+    "fullTitle": "БЭСО-03-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/271",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=271&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=271&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "JWR5rd+t8X8QXrsQYXOYcHkwGFvV7RtYqPZmZ51tFscRJ7UTu3cdoNwSmQrLvsGqKFx/R7cYVZV001Aehu2tdw=="
+  }
+}

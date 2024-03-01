@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 39,
+    "targetTitle": "БАСО-01-20",
+    "fullTitle": "БАСО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/39",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=39&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=39&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "9ICRO3sjhtcWOslnV1u6swhJNXsW2fliuOcnLhlSxh9VLz8qfjWMWk1ebRHTNHkcVn/9BZZVkvMrcCYAFuEnIA=="
+  }
+}

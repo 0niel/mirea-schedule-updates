@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 828,
+    "targetTitle": "РРБО-03-23",
+    "fullTitle": "РРБО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/828",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=828&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=828&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "a+i73UFY2q7vZmQJG1y/5BbkpCxYVPYPc+e6OOD1Rai+l1lPCJlombM+6DWZHnDXGasFVoyPQrpYL7kRyHIDgA=="
+  }
+}

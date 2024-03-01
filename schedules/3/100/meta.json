@@ -1,9 +1,0 @@
-{
-  "id": 100,
-  "targetTitle": "А-318 (В-78)",
-  "fullTitle": "А-318 (В-78)",
-  "scheduleTarget": 3,
-  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/100",
-  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=100&asImage=True",
-  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=100&asImage=True"
-}

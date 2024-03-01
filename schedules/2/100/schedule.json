@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 100,
+    "targetTitle": "Блеко В. В.",
+    "fullTitle": "Блеко Витольд Владиславович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/100",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=100&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=100&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "FU1fqN7oNaBdYhnwCxm+0CqGtJMt4gHW+Y2PsxRrtYkh2RCUb5LPKbK9FwI/ofrO7iWri59cPhl+GUFpessRgg=="
+  }
+}

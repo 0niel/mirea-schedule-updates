@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 304,
+    "targetTitle": "344 (С-20)",
+    "fullTitle": "344 (С-20)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/304",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=304&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=304&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KIHopO2gUVLnjOwvmU4RWF78HMhphgdWBj9aYkTPq+V5QwRc1apVBpkjZxCpit9VSvpt0DK5SLO3ucYg1qzXCQ=="
+  }
+}

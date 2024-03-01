@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 781,
+    "targetTitle": "С-215 (В-86)",
+    "fullTitle": "С-215 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/781",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=781&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=781&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "h3517uBBYjeCoYciMKz3JzX4gScextLOtvbb7sMWfUDxT9kIQpvIr35/x/3Nclp22IPu4RCPsyZBnEOES1jOvg=="
+  }
+}

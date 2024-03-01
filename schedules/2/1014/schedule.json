@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1014,
+    "targetTitle": "Вязьмин А. В.",
+    "fullTitle": "Вязьмин Андрей Валентинович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1014",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1014&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1014&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "bdwSf941a8jHepUfJr11MO1cfFAf6OEFKNzA84jpQy0bu6AmwIHLLTV2t2ZFBeLeEElf5yid0N4VA+Ouuw2eWw=="
+  }
+}

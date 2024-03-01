@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 567,
+    "targetTitle": "Плаченов А. Б.",
+    "fullTitle": "Плаченов Александр Борисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/567",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=567&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=567&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "anm4EvLITw4DSe+k83kMjkI2dpV082NUuwuLWL5Jv4+xxOsTa/ldbNNeNO92yH60INv7Es1jsmd3iMbcWt6VFA=="
+  }
+}

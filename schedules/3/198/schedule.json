@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 198,
+    "targetTitle": "Г-322-а (В-78)",
+    "fullTitle": "Г-322-а (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/198",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=198&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=198&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5QUAHFWa9Ks3tOt9/DNH7fW1c621Ge7Trm1HplvBueqDtpBkzT/D0zFsF5n5U3Xjg5/863JhXjX81DQ6lraPKQ=="
+  }
+}

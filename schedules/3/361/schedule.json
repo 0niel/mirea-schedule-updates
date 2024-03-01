@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 361,
+    "targetTitle": "А-463 (МП-1)",
+    "fullTitle": "А-463 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/361",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=361&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=361&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "3WiepnvLpTBIJaX+GzXz4DuQGTKut/XThw2mY8nGQH3JXUj/9w6DhrTrnljHPneBXZAQgI4v6hhWWps2TNZFfQ=="
+  }
+}

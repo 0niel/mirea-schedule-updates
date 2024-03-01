@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 43,
+    "targetTitle": "Митрушкин Е. И.",
+    "fullTitle": "Митрушкин Евгений Иванович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/43",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=43&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=43&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "4/M6aecVZHykTWbfV8tyJo4uuqPpybrmX8bFgfphUOpTI5SWI0/RuyagEzNnx0Oxp6Z7BKviydIwfIeIPjyLTQ=="
+  }
+}

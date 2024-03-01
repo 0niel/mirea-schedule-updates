@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 820,
+    "targetTitle": "РИБО-02-23",
+    "fullTitle": "РИБО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/820",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=820&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=820&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ADf9Sw68DqOglNgpqkoU9BJ/seezCJc7xsnZg6Ymd9X3+fav3dccK/ZGY4rJgUbjAKwHqlJxgoBD02oVpt2rGg=="
+  }
+}

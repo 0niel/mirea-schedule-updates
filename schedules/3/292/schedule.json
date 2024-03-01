@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 292,
+    "targetTitle": "ИВЦ-104 (В-78)",
+    "fullTitle": "ИВЦ-104 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/292",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=292&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=292&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "RxGQ66f4p/37vybqkmzes49B5wQv1sIa2ITBRHvGfRvl7SEbqvW3cs44cgcXj2K35TBk2LECbJ+TnX5vfHXH7Q=="
+  }
+}

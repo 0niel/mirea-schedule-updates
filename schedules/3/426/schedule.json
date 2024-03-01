@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 426,
+    "targetTitle": "305 (СГ-22)",
+    "fullTitle": "305 (СГ-22)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/426",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=426&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=426&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "9UMlg3IyUNXsp56j6vH9gKcELbZY1zqsCJFnVn3bcQ/GrA8wvN/8eBi2LTHf9CBblR1XDF5mrwpsUiKyAzyJcg=="
+  }
+}

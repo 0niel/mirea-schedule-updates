@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 513,
+    "targetTitle": "Т-308 (В-86)",
+    "fullTitle": "Т-308 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/513",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=513&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=513&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "oJmpvEXJ9qzHpSbjtTRu/53qTP6I6iG2BxL7v1O4X+kPBScb6TodRIErOgJ69kO+f+sQ5bdgUwqgArSAgCrFgg=="
+  }
+}

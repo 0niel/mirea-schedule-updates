@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1014,
+    "targetTitle": "ТОМО-02-23",
+    "fullTitle": "ТОМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1014",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1014&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1014&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "wCdVVYz49Y7A/GGjP8Lz5xC50bF95n835NnYytOJ5iuR1zt7BICsUJ+yYQf8AR7LpIUPvjFt2OyYR1RYkwOcvQ=="
+  }
+}

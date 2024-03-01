@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1201,
+    "targetTitle": "Юркевич А. Д.",
+    "fullTitle": "Юркевич Андрей Дмитриевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1201",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1201&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1201&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "BRP5ZS4nVhckcn35B8dhrXMWDAsRcZPHVyb4d31F9VwoR6PyfuPJyY5C65oQxTbA2WfOoNu8jsTqQQWAi2v37Q=="
+  }
+}

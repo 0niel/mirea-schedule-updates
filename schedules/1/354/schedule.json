@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 354,
+    "targetTitle": "КРБО-03-21",
+    "fullTitle": "КРБО-03-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/354",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=354&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=354&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "qZcCMjOUUZtdm/SVfjuYO3XR4fzJP0+dsMWtPoDsIB4E4NtGj/tUaN5cG7Z4scNHL4yCXjnE3y3HjqwJaltr1g=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 491,
+    "targetTitle": "К-112 (В-86)",
+    "fullTitle": "К-112 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/491",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=491&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=491&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "MwX+51ux520LAP/45c82GlCUQHW0lk0GEAnMlRSiEGCur8va+mhO/iHL5T1C3HSaAK5NNWRRgzuzRpbB0T2oYA=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 942,
+    "targetTitle": "БПСО-01-19",
+    "fullTitle": "БПСО-01-19",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/942",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=942&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=942&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "EgVF74bCR7cGwwd5WawlNLNoOOQWjo/Vs3HKnvCkS9IpfMVxWlAEPv5s+OwVp3soDlOugvXkjAszRo8JnYnpQg=="
+  }
+}

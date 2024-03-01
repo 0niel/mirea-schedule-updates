@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 801,
+    "targetTitle": "Катахова Н. В.",
+    "fullTitle": "Катахова Наталия Владимировна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/801",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=801&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=801&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "r3sv8hm1fNdTeY2Xt4gGMCJJ56ztqbLRW21DCyPXeeW9Wgqeho2ktn+lc04h5sZNtDVq8nu3OUaEwm4AVwITyw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 604,
+    "targetTitle": "РССО-01-22",
+    "fullTitle": "РССО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/604",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=604&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=604&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "pqMEPgsHomeP+58zWsuIM7138Itlc6ghBXUymLHamUPBKRZWTrpLSnJqpydc/8z3TSwb6v7nSa/vC+1aW5BCrQ=="
+  }
+}

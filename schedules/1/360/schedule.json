@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 360,
+    "targetTitle": "РИБО-01-21",
+    "fullTitle": "РИБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/360",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=360&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=360&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sRRe/PSvgPxAef5Hwy6wDlF5YfFzVxS8etnou8hyW/EVqmajJy4kUObDcwRYtg6uNE4e51/dE4sjKWH/sRkkew=="
+  }
+}

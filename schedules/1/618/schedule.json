@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 618,
+    "targetTitle": "ТШБО-02-22",
+    "fullTitle": "ТШБО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/618",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=618&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=618&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5xoMt5ROrBSJqm7ZrrsS0iv8S+g2eue03bBb46VBJ6aHKZdh8+uV8yONIBR1JdqT6K1Y6gd3PE23bCyDHdnYTg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 522,
+    "targetTitle": "Г-111-а (В-78)",
+    "fullTitle": "Г-111-а (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/522",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=522&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=522&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "44OxP6qEjqeNgduRzHHFqBgB1yDLhCOYO7anp4JCnyjxm021mWEaj4Rvg8PeotSKVzkO+pnoN58lbjb12QCcHw=="
+  }
+}

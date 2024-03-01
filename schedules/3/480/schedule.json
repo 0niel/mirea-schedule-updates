@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 480,
+    "targetTitle": "Б-403 (МП-1)",
+    "fullTitle": "Б-403 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/480",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=480&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=480&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "N48XULW8YNs58kXso3E1zHZiZUKppnQoPH1F5HXnmh/0RTWuZfYPsIuEkckC384B3hTNwmnyy/BQxU2OLCaKkg=="
+  }
+}

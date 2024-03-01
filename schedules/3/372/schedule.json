@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 372,
+    "targetTitle": "А-331 (МП-1)",
+    "fullTitle": "А-331 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/372",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=372&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=372&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "cDdnzHd/hTFHmcyzhANvlHb8wtZangQn5oS/AEYn4Exr74BwLxDZKctk5uUYYYKHzNJrvRho50lziWFJEVuf4g=="
+  }
+}

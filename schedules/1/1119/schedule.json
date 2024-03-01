@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1119,
+    "targetTitle": "КУМО-01-22",
+    "fullTitle": "КУМО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1119",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1119&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1119&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "AS4tlvIwNjImvjGUMDlhbSKD2DtRe7eDR76lSgVWHgVf2qZKCOarj6Q/w+32OWEp5ECC+TldwCbQvhYV4qcaXg=="
+  }
+}

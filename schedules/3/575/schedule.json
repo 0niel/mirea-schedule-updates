@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 575,
+    "targetTitle": "ФОК (С-20)",
+    "fullTitle": "ФОК (С-20)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/575",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=575&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=575&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "63By5STapWrp59BqD8oyVm0yJvrsSneOd30xu9Z+94gTpFwezShmK9FnXAKRnoLti/TkhhnwpsoQbtQhHf8T1w=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 469,
+    "targetTitle": "Иванова Ю. А.",
+    "fullTitle": "Иванова Юлия Александровна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/469",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=469&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=469&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "WiEjzwp8fUux2RP+0dxWieFVQfwVzf6IBfQSfh5+DGgKP7HJS+3+fgAzn1pruTcfmIbrzvhaJlhwnYsczPuBNA=="
+  }
+}

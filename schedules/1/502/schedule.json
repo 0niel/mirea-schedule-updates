@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 502,
+    "targetTitle": "ИКБО-02-22",
+    "fullTitle": "ИКБО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/502",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=502&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=502&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "1/3hFAmH2GXDNJW83fm8UN12s7gr+5T3x/6dMG20vE0x1WlxDrhlpKi0YWS0+Mi2Ou/eCo+8v7cQzmHWKUVmYw=="
+  }
+}

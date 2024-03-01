@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 611,
+    "targetTitle": "А-260 (МП-1)",
+    "fullTitle": "А-260 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/611",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=611&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=611&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "PWtK2h+X+Sdtxo8K2G6s4siTXbYJNOGhl6f9nYAl9KdsVBAwCnzcl93tW0KqxRzKWLjNtVEwyXg1vgwzvyPMoA=="
+  }
+}

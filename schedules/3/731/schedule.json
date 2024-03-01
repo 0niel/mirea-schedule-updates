@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 731,
+    "targetTitle": "Т-320 (В-86)",
+    "fullTitle": "Т-320 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/731",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=731&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=731&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "s/Yy9GiMSoGzdMpUb+7WDBYbtdOiHNFd9FMpXAUNehx0P87+Y0sMpPjUGQ7NWi3FWEpBpiq1aCc2tElB7NB10Q=="
+  }
+}

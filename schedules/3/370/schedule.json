@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 370,
+    "targetTitle": "А-337 (МП-1)",
+    "fullTitle": "А-337 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/370",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=370&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=370&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "oF2HKk2q8V7l3BARZBY03gcSEf5eM8reKoLZ36YviTA3vg5mIDyvECV4J9lZzcXypoQPK+FyaylG9nWh2KDxxg=="
+  }
+}

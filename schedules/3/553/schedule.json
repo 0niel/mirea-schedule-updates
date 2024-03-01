@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 553,
+    "targetTitle": "База (База)",
+    "fullTitle": "База (База)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/553",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=553&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=553&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "F9ODZ47YLGP4MNN7aazr5Tnb66rvl66Ipu/XxRFEH+C5EzDu9Wzz5KwpBnVL13N7gg5qmhb2Yu9CtladR+a+7A=="
+  }
+}

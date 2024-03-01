@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 574,
+    "targetTitle": "КМБО-03-22",
+    "fullTitle": "КМБО-03-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/574",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=574&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=574&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "zprQoDD5+tpPW4wcMxuwAV+DY0PeHGMUEum1dV6Ud3VmjhL5RuGiiZojoj772ImW0RwnRwD3L31q3xhjDeEamQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 418,
+    "targetTitle": "А-409 (В-78)",
+    "fullTitle": "А-409 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/418",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=418&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=418&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "AlZnzyiIwwMQ58uPWxv9ZnG4mRvVh9wESXqmYQ+q1iCufu2gYP4ahc0SNt+iEIsYEiLthvogP4xfVZ4NBvIjEg=="
+  }
+}

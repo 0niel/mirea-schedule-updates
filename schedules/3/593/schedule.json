@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 593,
+    "targetTitle": "А-111 (МП-1)",
+    "fullTitle": "А-111 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/593",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=593&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=593&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "fZAJjI6wEs7vjetv4Ua+PWa0ntaQDaU60ZOrNq3/4OKjfQFIMgBKknem1MRr9oFNXZUG1VZFnbrPHVv+Tdygug=="
+  }
+}

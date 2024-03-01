@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 345,
+    "targetTitle": "804 (СГ-22)",
+    "fullTitle": "804 (СГ-22)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/345",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=345&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=345&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "XpZERZxAEbfhG22gn46Ydnchh4xg8onEsP4Mn/B5kVZcECj1EpKjKBhi8ZIjNd2Oz2cry+uHoSHv52aLI+UfXw=="
+  }
+}

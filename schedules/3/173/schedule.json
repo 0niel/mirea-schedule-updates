@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 173,
+    "targetTitle": "А-316 (В-78)",
+    "fullTitle": "А-316 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/173",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=173&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=173&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "1GzbJWF7cCvsIYiVR4N/uNK/FknXljAsk6p4X/UZt1/XUUWGGELoF34222FXTVJ7aERtft1tUZL/RJpJbEJSHg=="
+  }
+}

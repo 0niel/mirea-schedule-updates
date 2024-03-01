@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 18,
+    "targetTitle": "Коротких А. В.",
+    "fullTitle": "Коротких Алексей Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/18",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=18&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=18&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "phWsUudmw7gftLeEIKvBQfU6xGDllBM+T6kLJLYgBUlHIwvkZQf8bSCX0chJ4MJpAt8kgDDYOciIIpbntlFDHg=="
+  }
+}

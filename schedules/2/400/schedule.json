@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 400,
+    "targetTitle": "Волков С. Е.",
+    "fullTitle": "Волков Станислав Евгеньевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/400",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=400&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=400&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "rIFNrJVAgq02JvE9V+XdR/CqgrgSLCxi/i38YnoXjMLOPGeEiPE5+F0j54Ql+IL/lT0D/YlM0Lpq389vUIA68g=="
+  }
+}

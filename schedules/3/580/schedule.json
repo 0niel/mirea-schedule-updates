@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 580,
+    "targetTitle": "ФОК-10 (В-78)",
+    "fullTitle": "ФОК-10 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/580",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=580&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=580&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Lu6QUccdGoI6eltCWVwExm+y+60YUfbe1sefHWaFx94GWuyPMVhL8eXVBL9I14xBi0TPuW76hmzsIHkEv1PgWg=="
+  }
+}

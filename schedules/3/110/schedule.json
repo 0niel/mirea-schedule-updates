@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 110,
+    "targetTitle": "№6 (С-20)",
+    "fullTitle": "№6 (С-20)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/110",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=110&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=110&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "tlUkmL/IQnrZnbkyEgC5I+iZTkCdEce6f+qfr5J4rB5B67QQUX6hJW5Vu+D88duTeLtJKRgamHF5uUXf/qCmWQ=="
+  }
+}

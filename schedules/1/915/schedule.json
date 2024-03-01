@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 915,
+    "targetTitle": "ЭФБО-04-23",
+    "fullTitle": "ЭФБО-04-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/915",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=915&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=915&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "inhPwiJ95hXPZYpuJ3RfFyqc1dQYMV96tJUxnYdvRJ2atJY+jUiTqy+OEFjVKvT0JuYFCXz+P5JYeNbfPg2TLA=="
+  }
+}

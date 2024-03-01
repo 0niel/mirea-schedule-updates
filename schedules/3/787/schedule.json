@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 787,
+    "targetTitle": "А-307 (В-78)",
+    "fullTitle": "А-307 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/787",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=787&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=787&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "s4UtY0GjyYKCUM/kbUbzlNP5JVzw7mlNCLPm2sWnuzTsPHXV82DwhhW2qInG9CIwC7iWHLbP0zrzOnW2Tppd/g=="
+  }
+}

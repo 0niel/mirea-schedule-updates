@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 84,
+    "targetTitle": "Б-325 (В-78)",
+    "fullTitle": "Б-325 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/84",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=84&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=84&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "U84DJeSD5nFtzOGdDX4mQpZ7U/uBKzQHSKAbn4mjGuRzAk2Nhk6ks0uXR9vSZOXwLN22nhJtGOpMOPfwdq6Wvg=="
+  }
+}

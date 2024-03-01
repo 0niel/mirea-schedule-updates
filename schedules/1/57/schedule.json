@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 57,
+    "targetTitle": "ББСО-03-20",
+    "fullTitle": "ББСО-03-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/57",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=57&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=57&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "G6HCIWuAOTxmzWnzemrXDAu/h7HG+LOLGsHudoLXNRjHdYajlfQpvU1wRa1ZS/+IWnVpFmYGOkGcbyk7P9yjYg=="
+  }
+}

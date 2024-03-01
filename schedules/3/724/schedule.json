@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 724,
+    "targetTitle": "Т-317 (В-86)",
+    "fullTitle": "Т-317 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/724",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=724&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=724&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "n9r+wqltzPWPzpDnrPkF5exrPIdqJZOIKRzMrjUHSW3WEBbO8h4fEZTwW1/QCAHveSucDWpJro2cdlWmUNPG9Q=="
+  }
+}

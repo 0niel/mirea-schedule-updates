@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 851,
+    "targetTitle": "Т-224 (В-86)",
+    "fullTitle": "Т-224 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/851",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=851&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=851&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "lbOsHWyfdxQfmAKKII5sVZ1sfpNOaXHvUy7loV73AVdut5l8EL1HU/mEITBSKAVgUOFzF9O+WF1smlCIO8hnnw=="
+  }
+}

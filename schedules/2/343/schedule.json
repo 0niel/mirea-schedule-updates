@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 343,
+    "targetTitle": "Иванов И. А.",
+    "fullTitle": "Иванов Илья Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/343",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=343&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=343&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "0B0dASabqjRMdAzGyKdBYIukYp2uIrTJNm8GlTXrPmrJW/YG8xnnU637GPMpUlEQE0xhvMphwBboBEgnhV6Rzg=="
+  }
+}

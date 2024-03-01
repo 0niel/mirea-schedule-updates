@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 461,
+    "targetTitle": "ИВЦ-101 (В-78)",
+    "fullTitle": "ИВЦ-101 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/461",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=461&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=461&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "UkF+OK5zQQw/Kja2T6//KVtO2SunzAceFWV2xrxJLf/rkBArjJTMIJnnvoi6Uq4/dAIr9uVrAUEybkXJ8Wczew=="
+  }
+}

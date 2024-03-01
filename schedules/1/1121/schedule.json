@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1121,
+    "targetTitle": "КРМО-01-22",
+    "fullTitle": "КРМО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1121",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1121&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1121&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "CICOlY+ouheN1rhAFBsREEXaJUHY8qm0BpSUGxyzRglZGU0q7E/vY4r8WthU/7fJ1uou69eU+bnovgJ+xIqrQQ=="
+  }
+}

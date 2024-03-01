@@ -1,9 +1,0 @@
-{
-  "id": 500,
-  "targetTitle": "ИВБО-09-22",
-  "fullTitle": "ИВБО-09-22",
-  "scheduleTarget": 1,
-  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/500",
-  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=500&asImage=True",
-  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=500&asImage=True"
-}

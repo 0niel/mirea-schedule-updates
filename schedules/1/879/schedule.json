@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 879,
+    "targetTitle": "УЮБО-05-23",
+    "fullTitle": "УЮБО-05-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/879",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=879&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=879&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "yl7yE9z2WTvSeynreq5SW+N6wxVrRsVxJk5fVcfX4913unYq4ItgMU4l+aGuGs/IKf56QIShXXnh6f33JsGJXQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 818,
+    "targetTitle": "РГБО-01-23",
+    "fullTitle": "РГБО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/818",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=818&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=818&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "BTZ+10nHguqLld0XS0hGgJUAwrKYGe66bsWqwxiFCmQzu61owS3eyHOhwmUslFYn+gfkFvhYn1syf5bDAAKBZg=="
+  }
+}

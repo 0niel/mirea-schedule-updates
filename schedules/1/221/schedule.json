@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 221,
+    "targetTitle": "ЭСБО-01-20",
+    "fullTitle": "ЭСБО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/221",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=221&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=221&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "S2eQuka6janAIQLi+gnPKJb+GsJMxRpWbHKl4y4FzDjZLOd+JYelvpWUrJ7ji5O/vMBttl7foC5g7VT2dLTmIw=="
+  }
+}

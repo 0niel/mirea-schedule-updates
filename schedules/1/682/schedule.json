@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 682,
+    "targetTitle": "БББО-08-23",
+    "fullTitle": "БББО-08-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/682",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=682&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=682&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "MX875QiBnvp9krtFvD2gP8/3YkXywsT+iUXhK5FKlt1Uw4z7h4aYhQVy9y0UzmJ5ap1K9FzDC2Jq65QU3k0yNA=="
+  }
+}

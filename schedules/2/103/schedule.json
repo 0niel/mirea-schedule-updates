@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 103,
+    "targetTitle": "Федин Ф. О.",
+    "fullTitle": "Федин Федор Олегович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/103",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=103&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=103&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "qayZmqofAkdurpWrcws3+JeMNi0uIV+ZcOtnXv+r5Ceh19CDj5xP2E/2mQOnvJquGpZFnnscSWp7WvTAWOAc+A=="
+  }
+}

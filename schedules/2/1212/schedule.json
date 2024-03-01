@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1212,
+    "targetTitle": "Веремейчик Р. М.",
+    "fullTitle": "Веремейчик Роман Максимович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1212",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1212&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1212&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "eMJ8VMy/JKL3SDObc0wNZzS59inuqCcaBKmKYdsBE9ukXMJT7VeijlsF9hicfE6P50mf/BkV/iMF37vUjM6foQ=="
+  }
+}

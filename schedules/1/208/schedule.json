@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 208,
+    "targetTitle": "УЮБО-04-20",
+    "fullTitle": "УЮБО-04-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/208",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=208&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=208&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "PYyTSwSHBq7ipnFbNLn7MsLGHRufyEZaiIrF0KUtbhYuP4Q5d8GNuUWnv5TpSSEs++xY1sEsOiZL/+Mam0Fkkg=="
+  }
+}

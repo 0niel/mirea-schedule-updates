@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1108,
+    "targetTitle": "КАМО-02-23",
+    "fullTitle": "КАМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1108",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1108&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1108&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "SLvLpI03lg+ZXrO8Az5p0TuJ7E1jWu6mg0mJjqLo1Lj3PoZYMCanBPi+7BZ+T26vBC7tMZLdTEXPA8eXsLdrFA=="
+  }
+}

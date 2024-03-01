@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 659,
+    "targetTitle": "ЭОСО-02-22",
+    "fullTitle": "ЭОСО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/659",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=659&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=659&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "o7FNmT9wDsKo0mjCjBEbOVnxgLPM0JxVQaLZVJlL9RiKle5PRKTCCosrhHpyIFsgshyCVUJbr4/VKb7A4VA0rg=="
+  }
+}

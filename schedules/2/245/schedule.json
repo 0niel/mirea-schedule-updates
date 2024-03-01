@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 245,
+    "targetTitle": "Чернов Е. А.",
+    "fullTitle": "Чернов Евгений Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/245",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=245&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=245&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "cYmgr+YRj3L8C9IglfMSLjcM1VA9jg5SrKvH/gpT4NaUwRPp6qVrii7ItyjT9FHv8w6ccfjUQ8IpH66qnmqNhQ=="
+  }
+}

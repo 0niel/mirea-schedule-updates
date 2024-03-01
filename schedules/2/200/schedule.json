@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 200,
+    "targetTitle": "Чижанькова И. В.",
+    "fullTitle": "Чижанькова Инна Владимировна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/200",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=200&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=200&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "O8qo7jfCUH0BzDy59+w7e9OTBWfI/ei2Eyrnmg0szK3L+ZrB6PPqc12WPEremq+K0coF/zU+TtK3AOO6JHr9Og=="
+  }
+}

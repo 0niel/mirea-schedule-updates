@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 326,
+    "targetTitle": "Б-210 (В-78)",
+    "fullTitle": "Б-210 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/326",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=326&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=326&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ot9D7h7Eo6bZAbP0GvFWjlxftt8ESb3vzoaKXCfXKqFn31IEJzop1w9HPTprs+V+1VFyC79C8a5eitaU4DS8Lg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 663,
+    "targetTitle": "ЭФБО-03-22",
+    "fullTitle": "ЭФБО-03-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/663",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=663&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=663&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "wVXlr00eriZrXzjbiuvoQx8sn4d2rPgUG8WILdR/k0pGdhngOSAZ+HUst+zky303C7vwKBLCBd2iZtnh5lTjzg=="
+  }
+}

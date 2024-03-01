@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1143,
+    "targetTitle": "Иванова Е. А.",
+    "fullTitle": "Иванова Екатерина Александровна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1143",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1143&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1143&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "tipncimGI6UUb4hGqjsVLeU3Rar/dO9joCUHsuKhaH4N72qp5nLPkxWGtde6FfL0Pxlg/m4XQeYFtLTRmJQyNg=="
+  }
+}

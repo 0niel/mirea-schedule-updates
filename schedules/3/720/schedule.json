@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 720,
+    "targetTitle": "О-505 (В-86)",
+    "fullTitle": "О-505 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/720",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=720&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=720&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "4DHEnVgdc2Tkmwta7gvJNLS+XFw4hUj26wsCDcbDqJtlJ876h8iX9YoRV+Lr5T4gHP7+OMvzYaXkBK8rirL6iA=="
+  }
+}

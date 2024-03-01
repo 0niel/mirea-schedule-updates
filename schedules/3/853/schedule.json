@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 853,
+    "targetTitle": "Б-206 (МП-1)",
+    "fullTitle": "Б-206 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/853",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=853&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=853&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "RnbGjLP+Jsv57CaHPjPMqpk5ktkJPzsTWH4sVJilyGxbY1Pnzcuhoa4gotGn/l4w9BMVOP8uGCiFMhorMSyOxw=="
+  }
+}

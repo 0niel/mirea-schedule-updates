@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 169,
+    "targetTitle": "А-342 (МП-1)",
+    "fullTitle": "А-342 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/169",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=169&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=169&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "2IS3W6yfOE3gSQReICqAFR5B0ub1fwicWfz+FqbQ+wUOPe8ji2GXWyXy4jsDCZrTQ1oDCc3k3GMo+oA5gYe4mw=="
+  }
+}

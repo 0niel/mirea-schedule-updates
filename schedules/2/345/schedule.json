@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 345,
+    "targetTitle": "Иванов В. С.",
+    "fullTitle": "Иванов Вячеслав Сергеевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/345",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=345&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=345&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "tCENbm6ojGA55F5n3YPaA2otG1WkX6p5GvWk4YFOEiLG3OC67Kd314evgLyMOGvFWCEyNMVY4+TAG0bGTuOqWg=="
+  }
+}

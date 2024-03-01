@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 668,
+    "targetTitle": "Т-220 (В-86)",
+    "fullTitle": "Т-220 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/668",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=668&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=668&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "3mMMPsiCjNjurIOcT1xhH1m9E1eJcOM5m8CFh03PVmpsN8D8WD6rs/u8F1OtETEgQeAz/a1qL42L1lwpOwv/Sw=="
+  }
+}

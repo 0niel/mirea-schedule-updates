@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 459,
+    "targetTitle": "БИСО-02-22",
+    "fullTitle": "БИСО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/459",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=459&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=459&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "j4JMIQAL8pePrRgjh8dd8SzJa4OCYJSMfS3V1UFnYsE76avmXyO0gNqjc0Rge2jKWenmC+tREbwnx5KxRP3APA=="
+  }
+}

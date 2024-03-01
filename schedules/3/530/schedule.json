@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 530,
+    "targetTitle": "Г-101 (В-78)",
+    "fullTitle": "Г-101 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/530",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=530&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=530&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "GDXPAQp8A2kQrVPlBZRNJEyV/dmoMEjrVuWin4fvYxMZyzettH1cGWDHPNOMtmPF6fsO9rC4CmPLnJary4IlEg=="
+  }
+}

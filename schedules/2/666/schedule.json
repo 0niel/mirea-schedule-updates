@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 666,
+    "targetTitle": "Боков А. А.",
+    "fullTitle": "Боков Александр Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/666",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=666&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=666&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "/iQXDHR+PWDHkXBF2Qt+A0XvcRpV0NjRmIfCRJ6nFuH6rpTKBRZXamxyQ4NEop4MjgrLeJMRr1wA8khNbdeHig=="
+  }
+}

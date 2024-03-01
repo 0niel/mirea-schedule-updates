@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 789,
+    "targetTitle": "Кудинова Т. В.",
+    "fullTitle": "Кудинова Татьяна Викторовна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/789",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=789&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=789&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "jmMWrfzN6aE5EFk+1TfDz7yK7mKKLorhcx82T3U31s/gudr3Lf1/5ZkP+C8RrjbyMkrL1WND1/Zdu2jQ45G5iA=="
+  }
+}

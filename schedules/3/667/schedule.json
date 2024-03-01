@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 667,
+    "targetTitle": "Т-207 (В-86)",
+    "fullTitle": "Т-207 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/667",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=667&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=667&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "U1Kj0139dgaYO9wuO8H1YG3Ur/SUvXSCMTANCeqkloaQUXNsJh69zFlv9NAPWbjDaGu0nv6vW5OKtQqVIDPgpQ=="
+  }
+}

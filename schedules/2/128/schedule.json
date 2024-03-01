@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 128,
+    "targetTitle": "Антонова И. И.",
+    "fullTitle": "Антонова Ирина Игоревна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/128",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=128&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=128&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "y46Cf6nnM52QaqsZDOYDUvjR2R55jwFPLMTn5mwiKVwUN3esmyHENi0HfhkDx00BpOJ8Soq65eQ5Wm4OVg1d3A=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 466,
+    "targetTitle": "БПБО-02-22",
+    "fullTitle": "БПБО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/466",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=466&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=466&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "OQJeFU8pokX7hfRid9jL0/lMbO5jpf/Gt9d6AJk0Fk+Zm691RAreBhx12Kk9ojm/xZM1txMsGORQHBZbflod6w=="
+  }
+}

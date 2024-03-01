@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 358,
+    "targetTitle": "КТСО-02-21",
+    "fullTitle": "КТСО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/358",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=358&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=358&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Lxd5AExIIaJqnXKlZljYSeGCOQkN1nOOXQEi/xNqiyI+Ixdj8XazHTfbgH+CnMpUJ35MTztfYo0t6US04R5Sxg=="
+  }
+}

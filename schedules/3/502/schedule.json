@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 502,
+    "targetTitle": "Л-005 (В-86)",
+    "fullTitle": "Л-005 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/502",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=502&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=502&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "GQT1+7bV/qUS02OW13xXwmjVEUlWdPDkoiYER9xZg3lwwW0PCpoVESgZKt+0WW0yc0EOE2crOnCpJ/XzOYxUuQ=="
+  }
+}

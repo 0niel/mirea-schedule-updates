@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 865,
+    "targetTitle": "Юдин А. В.",
+    "fullTitle": "Юдин Александр Викторович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/865",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=865&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=865&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Y867s5uwjBjAeCDZpzCZJYAU23Jcu1ReE1Ad0jDuQ1Nk1OSWQWcd35sry7QX5y92ZoXSIkEuDk2LAo2lO/uSlw=="
+  }
+}

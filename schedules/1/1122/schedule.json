@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1122,
+    "targetTitle": "КММО-02-22",
+    "fullTitle": "КММО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1122",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1122&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1122&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Ua5wr6JecBzWv2KGJ6MykY4T5syAKj+karJvoivhtUe9uUYzBk+chi9VkoklJ8JnyGghf2y4iX95F7/TxrNEPQ=="
+  }
+}

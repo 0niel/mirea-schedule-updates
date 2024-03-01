@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 132,
+    "targetTitle": "Захарчук И. И.",
+    "fullTitle": "Захарчук Иван Илларионович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/132",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=132&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=132&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "mG7plQuDUYhD+67o03jGxI5YVjKb3XFlIr0vW1/0R8DiPAZrk32OccBU2xoZ7OaFqtT15Fn10ny2oNAU+E3NVQ=="
+  }
+}

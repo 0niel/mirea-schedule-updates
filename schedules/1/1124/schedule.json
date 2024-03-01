@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1124,
+    "targetTitle": "БСМО-05-23",
+    "fullTitle": "БСМО-05-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1124",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1124&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1124&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "QQgQnWo9C+bpoAK4rNNW6pNq/bZQkZOiqlVn2WSG3AI7PKp/D3tsJRMu8Nx+WeUS0V99j1m2jwoLz/+WixKcZw=="
+  }
+}

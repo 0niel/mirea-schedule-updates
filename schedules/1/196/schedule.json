@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 196,
+    "targetTitle": "УМБО-01-20",
+    "fullTitle": "УМБО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/196",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=196&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=196&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "cWh7Qrc5TL/937phpWPnh9tQcLaOOe8TD55mMOF7V1pVvye0DTVCeb2betyDFcd9oVC4j5NYr9UNALyivp+h0g=="
+  }
+}

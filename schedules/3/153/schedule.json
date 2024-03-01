@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 153,
+    "targetTitle": "А-427 (В-78)",
+    "fullTitle": "А-427 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/153",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=153&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=153&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "dGLgTMGuaIH4QzAI/3fiiIqmLauFGAUEqJrbjBTwSjBGglSizfmWh2U/817CTuZ6VzHRuMYEMZom13Hm7558Rw=="
+  }
+}

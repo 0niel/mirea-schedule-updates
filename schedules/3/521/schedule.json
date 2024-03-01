@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 521,
+    "targetTitle": "Г-110-б (В-78)",
+    "fullTitle": "Г-110-б (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/521",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=521&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=521&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "wCFwOehtQ4qCYLsdWRqmzfJyKz+tNBGm9D/2wriPs1ock90QpIUg6Ma7BzjNTVIErsHMPsMFite/Rlj6LGIVKg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 739,
+    "targetTitle": "В-414 (В-78)",
+    "fullTitle": "В-414 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/739",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=739&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=739&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "QU0Rwb69KSYXMv6SRv4ovo31C5QFcIA8g7eCfwdBV3iwBf9IYi9hNRwjgUeKv3p1gyNURJ9fpBCltZupJcsVew=="
+  }
+}

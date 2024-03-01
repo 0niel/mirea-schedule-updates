@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 359,
+    "targetTitle": "КФБО-01-21",
+    "fullTitle": "КФБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/359",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=359&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=359&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "BPzX7WAsXtm0lQKqiZkK2UZEjkh1kxhtz6RvY7xXWx/Bs4IRc3Cnx5lCs+55F4g31Zzk7/EXS8EUMv9lFfApdg=="
+  }
+}

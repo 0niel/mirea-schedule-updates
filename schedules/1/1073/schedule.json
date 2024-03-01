@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1073,
+    "targetTitle": "УИМО-04-23",
+    "fullTitle": "УИМО-04-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1073",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1073&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1073&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "W+rjO66vHsq4qroSZ2xN5/ts5xMZUDpv5CN3o3sIur59gScv+Dz1p8PaBOk7xvxVFXDhK1Pt8jhmmH4bybHLbg=="
+  }
+}

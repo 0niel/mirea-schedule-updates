@@ -1,9 +1,0 @@
-{
-  "id": 101,
-  "targetTitle": "ИВБО-03-20",
-  "fullTitle": "ИВБО-03-20",
-  "scheduleTarget": 1,
-  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/101",
-  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=101&asImage=True",
-  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=101&asImage=True"
-}

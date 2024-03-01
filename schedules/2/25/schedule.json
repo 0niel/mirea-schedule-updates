@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 25,
+    "targetTitle": "Андреев П. В.",
+    "fullTitle": "Андреев Павел Вячеславович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/25",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=25&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=25&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "SyzAd2NL1dOFVjYTY20E6ftH1AwunzQ726bInvatNOsDF3rTiu23smkGmZ1sO3hM6Fzbu9E87G30njYKQQ8nFQ=="
+  }
+}

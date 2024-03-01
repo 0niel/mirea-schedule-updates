@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 785,
+    "targetTitle": "КББО-03-23",
+    "fullTitle": "КББО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/785",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=785&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=785&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "MIWn4YPS9GwvB0Zk1Z6bXa+HZ3gBaIHLhqagQ4okmf+RdySgj10uaXpsQokc7zZnFJnek/Z0tjePwWjKIQHc0A=="
+  }
+}

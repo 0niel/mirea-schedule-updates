@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 41,
+    "targetTitle": "Микаева А. С.",
+    "fullTitle": "Микаева Анжела Сергеевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/41",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=41&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=41&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "/Mja2XzSILk8VMNHgmUfSWo5OQ2sZhJ6kl+bZohtbal00dSy2XO7AYegNzkkprdmCAa3m+6B2gNUh0oAdUGhWQ=="
+  }
+}

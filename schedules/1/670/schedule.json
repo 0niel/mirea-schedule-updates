@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 670,
+    "targetTitle": "БАСО-01-23",
+    "fullTitle": "БАСО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/670",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=670&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=670&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "60y/6CPUHJDFRIiP+aHL64KI5n3PI50RP9upxTVi35yrRu9nUuZa8vyPguJKHUNI0YeUXDwProT+nIIS/AuZfg=="
+  }
+}

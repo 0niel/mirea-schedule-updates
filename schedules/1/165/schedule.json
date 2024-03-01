@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 165,
+    "targetTitle": "КСБО-01-20",
+    "fullTitle": "КСБО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/165",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=165&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=165&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+iEgqMjgfON18BBV9LwIAFE83KysCcrUUBbUgbgDeWFx0quxkMn/8qUWoMZ1kWHEyzB4wwgqYfX7olo0FaUCDA=="
+  }
+}

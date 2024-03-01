@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 84,
+    "targetTitle": "ГИБО-02-20",
+    "fullTitle": "ГИБО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/84",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=84&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=84&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "K7PREZrTbYXPxl7bj4HJlYdBYjlB42wFT4jage9IUMGmWjM6LcPF6CEkiMhh8Y+Ph+4aP1OuFVVusDhoAt6tdg=="
+  }
+}

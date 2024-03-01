@@ -2,10 +2,17 @@
 
 namespace MireaScheduleUpdates;
 
-public sealed class ScheduleHashVersion
+public sealed record ScheduleStoredInfo
+{
+    [JsonPropertyName("hash")]
+    public required ScheduleInfo Schedule { get; set; }
+    [JsonPropertyName("version")]
+    public required ScheduleHashVersion Version { get; set; }
+}
+public sealed record ScheduleHashVersion
 {
     [JsonPropertyName("hashVersion")]
-    public int HashVersion { get; set; }
+    public required int HashVersion { get; set; }
     [JsonPropertyName("hash")]
     public required string Hash { get; set; }
 }

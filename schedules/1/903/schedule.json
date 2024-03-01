@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 903,
+    "targetTitle": "ХХБО-03-23",
+    "fullTitle": "ХХБО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/903",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=903&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=903&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "pq+fGsH6uOc+Q73oGfsaWIurmljzC2ykcc1J6aU1xAOvcdEdavHmUaZvuMU1RlQWBpjNRXTU/yxc+zDqAX5OnQ=="
+  }
+}

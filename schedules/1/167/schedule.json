@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 167,
+    "targetTitle": "КТСО-01-20",
+    "fullTitle": "КТСО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/167",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=167&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=167&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "iFERMmT/YCxgNt8YvIOIXn0Dz3Ed1l6afPZVzVPIUIF50/4yiw1iIVP+QWg0LNAVlmG42UeJHxyrSWztVcYsNA=="
+  }
+}

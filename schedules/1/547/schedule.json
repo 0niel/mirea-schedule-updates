@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 547,
+    "targetTitle": "ИНБО-07-22",
+    "fullTitle": "ИНБО-07-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/547",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=547&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=547&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5nHe79OEt6qyBjQzfxMI8icU7idEARN6Xdh44GL8mpq6FQk7qvGW9xGzfxoo+aHJxV2jndQYhHrLg+L7r9qDQw=="
+  }
+}

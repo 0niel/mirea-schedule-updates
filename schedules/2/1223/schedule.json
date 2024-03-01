@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1223,
+    "targetTitle": "Мартынов Л. Ю.",
+    "fullTitle": "Мартынов Леонид Юрьевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1223",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1223&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1223&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "aP2twMRZw8S1j8nvHT1HMdNSadTuVAxfAFoXt/JATSAz/rLvNYp9sCR3NPqvJSEVMwIXteVie2OVZ45ZFMdHbw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 591,
+    "targetTitle": "Т-410 (В-86)",
+    "fullTitle": "Т-410 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/591",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=591&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=591&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5wQLKMlyzNOX3dIzL4h/3nu0Y9sq3xrfd5kpScEiF2PFoe9+4FdyrvQk22pbVyL2XcxFFvdcHltXfQh1DM1WRg=="
+  }
+}

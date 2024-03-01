@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 97,
+    "targetTitle": "Б-115 (В-78)",
+    "fullTitle": "Б-115 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/97",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=97&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=97&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "qoTKJnL1MBEh2op9nZh9CmbVka0gRlSb0rRSZTeYgJneCOOvBSUcyAv4TD/a0i0953oGSezxVU2tSjpWX9wFxA=="
+  }
+}

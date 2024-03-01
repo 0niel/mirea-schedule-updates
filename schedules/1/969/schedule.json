@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 969,
+    "targetTitle": "ХТБО-01-21",
+    "fullTitle": "ХТБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/969",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=969&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=969&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "GDUeOjwKpNBS84/wBcTjOps8rvo6DAgzOahkTf9AHegoKSi9eIeJ0WSO7E5lfuNNVaam+FbfVr2uuVUfAmpQ1w=="
+  }
+}

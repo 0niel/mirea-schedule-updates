@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 267,
+    "targetTitle": "Б-214 (МП-1)",
+    "fullTitle": "Б-214 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/267",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=267&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=267&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "hXuB1wzi8urS40yS5pqyEzu6HsBRs24QV/HxqDIvvLPf4F6WMvD0NKZ68OH0SDN1O6Q6ny466lMSZWWlKHRN7A=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 421,
+    "targetTitle": "ФОК-8 (В-78)",
+    "fullTitle": "ФОК-8 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/421",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=421&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=421&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "bb9DW4QpW2iZvhvRjoU54NrRRgcQbzAY+tk+uIM1USVpq5awHnLxjYciZKF1OSbWAiK5LWdbZ7DKAycnTv0EmQ=="
+  }
+}

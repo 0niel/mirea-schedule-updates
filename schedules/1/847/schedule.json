@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 847,
+    "targetTitle": "УДБО-01-23",
+    "fullTitle": "УДБО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/847",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=847&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=847&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "SH320PRIygMOCQQ52Jh+BJConTD1tTr3fCS4bL/r8mxynYBoF2kZcEe9GGpBBW2Km8F7MRIpE6Wap4velU2VSw=="
+  }
+}

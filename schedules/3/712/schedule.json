@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 712,
+    "targetTitle": "Т-216 (В-86)",
+    "fullTitle": "Т-216 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/712",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=712&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=712&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "mth9Uk8Ms7KrrIRC6ar+UxU+K+2ljCdMSTfUOpBN60kAxdXd0nyAR52wRl8jygs3iTwrWaIPkmNCgWYbTgoMGw=="
+  }
+}

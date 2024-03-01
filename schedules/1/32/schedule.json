@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 32,
+    "targetTitle": "КТСО-02-19",
+    "fullTitle": "КТСО-02-19",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/32",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=32&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=32&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "4zxXqJF2+Fyqs62CtQ6DHjiXxMaN+fmQgv0tavn6WtobRx/BEvM9BDaYrrJJ2NINuYkBGj8jsS5pOLsAFLjMyw=="
+  }
+}

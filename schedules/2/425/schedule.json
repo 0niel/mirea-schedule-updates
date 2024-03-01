@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 425,
+    "targetTitle": "Юрасов А. Н.",
+    "fullTitle": "Юрасов Алексей Николаевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/425",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=425&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=425&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "6ODzXq7yzrarUM8oYN3RxRuq1KrZMhIUTkpWMZWL6ZDoNAzMQFCANA+7moG0qt3BVwBclroMMIZJnf04XihuXg=="
+  }
+}

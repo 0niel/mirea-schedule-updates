@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 52,
+    "targetTitle": "Новикова О. А.",
+    "fullTitle": "Новикова Ольга Александровна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/52",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=52&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=52&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "1PjIwNDOHaIYyvJ7tl06xEnB1G9YiYbIN6EwDc1ex5P+G9T7GkUq5PExVWA9feaXFogiqCIZVpFPVk/nUpbgNA=="
+  }
+}

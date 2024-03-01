@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 229,
+    "targetTitle": "Б-301 (В-78)",
+    "fullTitle": "Б-301 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/229",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=229&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=229&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+PvMi3nU7a9RNk6XrmSMspGc6X2nXBrlDEY3bboOwsUCyMpmq9Av7ENUV/4aZXIo91ZBHl+bxygBw7s55S6JOA=="
+  }
+}

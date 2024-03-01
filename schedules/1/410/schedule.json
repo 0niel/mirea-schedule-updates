@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 410,
+    "targetTitle": "ХББО-02-22",
+    "fullTitle": "ХББО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/410",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=410&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=410&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+5rX9JjcZy4L2xKYUEQS4Y1yWO1rMEwlE0ssX4ZhJ2oD+Xkcp7EFN01eCYCicxPk+2aNaikapjLq/tgPJrNLDg=="
+  }
+}

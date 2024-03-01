@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 855,
+    "targetTitle": "Л-007 (В-86)",
+    "fullTitle": "Л-007 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/855",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=855&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=855&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "D0tINxTX6vSKSz0CPnsf7BZH28Im8ktWoZ1u1/OzWGLv9/WVve1n/eGLYJCY05hP63gwSWwyL5xzbtZDMaf32g=="
+  }
+}

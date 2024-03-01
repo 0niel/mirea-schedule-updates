@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 234,
+    "targetTitle": "БББО-09-21",
+    "fullTitle": "БББО-09-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/234",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=234&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=234&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KtolMz4dA5QLx9qkeNsjQckry0VmATbnOM8T6U9qcMAMV0zitBNvg/mIfncwZc1T2BjWTz14oa81oyC7kAbxsA=="
+  }
+}

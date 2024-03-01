@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 987,
+    "targetTitle": "Чернигин А. Н.",
+    "fullTitle": "Чернигин Андрей Николаевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/987",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=987&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=987&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "IoEOrmEs5uMiwaHTylwmm8EYYNBMQsEQ3U59OaSoRekGo6FEotM5/2J9TLM9P1BPJerk9xREsquYSIelRENJqg=="
+  }
+}

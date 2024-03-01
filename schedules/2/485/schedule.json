@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 485,
+    "targetTitle": "Ильин Д. Ю.",
+    "fullTitle": "Ильин Дмитрий Юрьевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/485",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=485&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=485&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "deN8vvBMRxQ2kDT0ez0K1581TcQKmZ0AbejeikCxtwh9/Z+HAvtbWrju1H1r/GzZcQ5S2CpxZZCPdL7A+hUhgA=="
+  }
+}

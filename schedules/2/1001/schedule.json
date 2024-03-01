@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1001,
+    "targetTitle": "Алёшкин А. С.",
+    "fullTitle": "Алёшкин Антон Сергеевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1001",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1001&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1001&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+4ZS1UfpMQhhcRtiEoBb2DZjPVS1vYKDa1eK+f4fU+NHL06FZouErT5nakAMOL1TRhhbLEfJXFl1rhc7C5fU9g=="
+  }
+}

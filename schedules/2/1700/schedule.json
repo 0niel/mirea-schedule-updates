@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1700,
+    "targetTitle": "Миронов М. А.",
+    "fullTitle": "Миронов Михаил Андреевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1700",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1700&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1700&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "4lfACx9YChKiK8osmhzefdrMlv11xBz064O9GvdVPqU0TSgTIAG1+ZyPlPgMA5oKzdtD9k45OQCkdCbeGTkSzw=="
+  }
+}

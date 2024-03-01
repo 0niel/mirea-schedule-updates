@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 78,
+    "targetTitle": "Харламов С. Г.",
+    "fullTitle": "Харламов Сергей Григорьевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/78",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=78&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=78&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "S9RBGEOfUc6tKEMWv8zLUdGU1jdnox53jS1sASu47T1KadK4bthbC6ebj0Fs5K4aNcfp425YcSHSggK5TgKQDA=="
+  }
+}

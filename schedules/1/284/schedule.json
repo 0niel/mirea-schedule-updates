@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 284,
+    "targetTitle": "ИКБО-04-21",
+    "fullTitle": "ИКБО-04-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/284",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=284&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=284&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "p7h7sXzvkUsh9ymEmYvHNmQtnYrhsp7qONnOgPfM3+7GYF/7U5/Rnb1d3pVvPe+I7UZzAMpVgrcGHs9r5Oo7DA=="
+  }
+}

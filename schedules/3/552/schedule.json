@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 552,
+    "targetTitle": "Дистанционно (СДО)",
+    "fullTitle": "Дистанционно (СДО)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/552",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=552&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=552&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "pWA40emmoFAba4FTCWBRUhQsZebnV7O/vUngitp0TVCxCV00r9qo99ivGFPQNlJJgsm/F0Aq09q0ujV2eOa6Og=="
+  }
+}

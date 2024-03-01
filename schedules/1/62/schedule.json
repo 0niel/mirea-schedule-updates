@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 62,
+    "targetTitle": "БОСО-02-20",
+    "fullTitle": "БОСО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/62",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=62&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=62&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "zWx1fPxv6PbGn5NTqpFRhwuuAgRqfj8bx9jd6NdmZgjToRNauaooSDisUTxfDyrl1q0ime5Zw+1JXmY5KeDBNw=="
+  }
+}

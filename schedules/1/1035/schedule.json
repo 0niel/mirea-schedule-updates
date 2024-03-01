@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1035,
+    "targetTitle": "ИВМО-01-23",
+    "fullTitle": "ИВМО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1035",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1035&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1035&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "znPd/k9v9kKaGOfpXDp37wYZXDuwvX0yOFbAH8Njpr6tKFxSrdmLfsevxSaAHgUmN/3aYdsxFg7ZRPs+TU4l6w=="
+  }
+}

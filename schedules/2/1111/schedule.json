@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1111,
+    "targetTitle": "Клейтман Е. В.",
+    "fullTitle": "Клейтман Елена Валерьевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1111",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1111&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1111&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Jb+0u99s3po3iWp5D13n3uRJ33WH5ffgoaWE0K512Kvdb1blvrZtp7H9/oiUeevgeG8kyP8UScMFBryG3F25QA=="
+  }
+}

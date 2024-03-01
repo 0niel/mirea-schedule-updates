@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 95,
+    "targetTitle": "Е-32 (В-78)",
+    "fullTitle": "Е-32 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/95",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=95&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=95&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "6lW6v6Eh+TJihW9Yy9p3K7CyW2Dk6f60FkGwe+Oryg/Aurb8U32ntu/0ll2lortXn4CTolyec1CJ18hVELCGLA=="
+  }
+}

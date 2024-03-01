@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 180,
+    "targetTitle": "А-222 (В-78)",
+    "fullTitle": "А-222 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/180",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=180&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=180&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "eCBgz5JBuX/ddDfOdCcrAcFR2lAB0yO7VDrd2Po4yCKr+ZX8gTCO9BuaME5GLjEjufhK2iLy9wWS9++TKX2rBA=="
+  }
+}

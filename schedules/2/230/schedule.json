@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 230,
+    "targetTitle": "Иванов В. В.",
+    "fullTitle": "Иванов Владимир Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/230",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=230&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=230&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "g+R4Kw9D0CY2hvkmUzzlcyUX2K7QJN6/qbqOB2Yk+81N5iFDwe9hFfC4h75B/geR2zICvcGNv3ij2+ou7X+p9g=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 26,
+    "targetTitle": "ККСО-01-19",
+    "fullTitle": "ККСО-01-19",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/26",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=26&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=26&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KS8fPFDXSHY9nVeFPTvniLoZE5IndvalzTFOCJb4TY2mo8sBfXJ9QIvb+6ExbeRCRnqCuPjEx9pV9ZFzt39MlQ=="
+  }
+}

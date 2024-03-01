@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 460,
+    "targetTitle": "ИВЦ-103 (В-78)",
+    "fullTitle": "ИВЦ-103 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/460",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=460&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=460&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ID5qeNkjFp1rRhIXXscXCZSatT9B84FyrA7zuRndDa6/Q6dyDRXAa3ar6l8zjL9x83u7+b0TGwVeBVA1/0Pzzw=="
+  }
+}

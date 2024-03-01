@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 390,
+    "targetTitle": "И-331 (В-78)",
+    "fullTitle": "И-331 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/390",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=390&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=390&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "WCf0BtiHWbUp1VWj73fCFfcEWMuUDN7B6P+2XSVtw/2lxSSdTzDZr3gxhk3SRCWxuHUHOdpDEXH1E6HRNsDWng=="
+  }
+}

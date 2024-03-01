@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 769,
+    "targetTitle": "О-504 (В-86)",
+    "fullTitle": "О-504 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/769",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=769&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=769&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sSIHCEdskBf2snR/lX3bPFV8u1Q0aQoXwi+lTuOzZXpI0s24nFBo9VHJqNw8th5d0cTjUcDqWL2+WhuS0QtbBw=="
+  }
+}

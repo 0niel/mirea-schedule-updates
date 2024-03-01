@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 175,
+    "targetTitle": "КУБО-02-20",
+    "fullTitle": "КУБО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/175",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=175&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=175&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "N+9kBIQNr/7ZAsjA79NUPcKBY9kz/zm1GAAXbBY3eQxmw/jhEkEcrsNe+uY8MrMJnhbaknTxA4qFBF5yimXx9Q=="
+  }
+}

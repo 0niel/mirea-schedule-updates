@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 716,
+    "targetTitle": "С-406 (В-86)",
+    "fullTitle": "С-406 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/716",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=716&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=716&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+rM9Vh9C5z524dIPU87RtOB1jVDwrR68k8bTe8CX9koSAaf2jcWcItAhqpusD3cVdjmc0W8cNNDMQ6NS6EbzLg=="
+  }
+}

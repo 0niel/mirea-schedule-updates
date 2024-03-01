@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 567,
+    "targetTitle": "А-325 (МП-1)",
+    "fullTitle": "А-325 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/567",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=567&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=567&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "UXfKWnC6qiNtZ1Oqc5BXFMv9i1kvT9+fpXgZR6ps9n390CWvU0DjoIYxabQq4YMBl/KANQOnmr3yR3Sa9kX5Dw=="
+  }
+}

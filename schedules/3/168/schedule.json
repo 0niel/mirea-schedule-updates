@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 168,
+    "targetTitle": "А-352 (МП-1)",
+    "fullTitle": "А-352 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/168",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=168&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=168&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "VNEI6aL24dIYNdLfEZjnDncuBsSD/dQ2IRE/G3kZja1QYC6cK8KQRbwFNffSgD1P2HWwod4QeVkUKNa+3FQw2A=="
+  }
+}

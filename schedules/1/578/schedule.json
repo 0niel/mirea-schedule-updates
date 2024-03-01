@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 578,
+    "targetTitle": "КМБО-07-22",
+    "fullTitle": "КМБО-07-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/578",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=578&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=578&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "lZiDn48ttloM/1Y93nyW9SrgpRlQ+hMqgRse2X6wxcfgpqAD88Dw+wdrMgHZAeO6xeJhi/AwIlA0fLMBaX1plg=="
+  }
+}

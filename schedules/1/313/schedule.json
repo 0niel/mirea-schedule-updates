@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 313,
+    "targetTitle": "ИНБО-02-21",
+    "fullTitle": "ИНБО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/313",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=313&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=313&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "DRKsZlRrc18HkeYcUfQ50amQ5vvvFkutDq5xy6nkYOGqBi06syI5iAdyWw+iIBDNx4+wSiITsbe13cXAMbxyKQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 70,
+    "targetTitle": "ИВЦ-109 (В-78)",
+    "fullTitle": "ИВЦ-109 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/70",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=70&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=70&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "TDJbdT3WGxNdtIOkoJLsBKPe4Cvyusz9DHnrF84H2jT2BVW7snXlSEy701iyVhDjJF8GtjHS0uU0fqPpsRSASA=="
+  }
+}

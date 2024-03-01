@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 237,
+    "targetTitle": "Б-413 (В-78)",
+    "fullTitle": "Б-413 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/237",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=237&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=237&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "kUEebHqARW8d7M2v6lT7kiWbzolYNeQMKwy3IJEl92TYLfgqzDA7vPDd5/TR2AiKjvvBcO520OgQNWegbi3I7A=="
+  }
+}

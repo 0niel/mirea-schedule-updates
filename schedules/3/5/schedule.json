@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 5,
+    "targetTitle": "273 (С-20)",
+    "fullTitle": "273 (С-20)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/5",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=5&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=5&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "rcN24yWIUUkxHpR0LSkTt49Wljy4PZJ0hljrRQktW76xbCt7ABeDDaPeSoY/DzqxhiNOy5pv+J1QzMG7CkLOpg=="
+  }
+}

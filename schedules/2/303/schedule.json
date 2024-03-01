@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 303,
+    "targetTitle": "Карачихин Д. М.",
+    "fullTitle": "Карачихин Денис Михайлович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/303",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=303&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=303&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "miptSRZ8fo7DZuQNFsErn4xJicL1JwIIeDirbUIo5UVE9eBmK0gHIi6xf+2mf2mU6eSD31FtMdCQK+UZSAQ4VQ=="
+  }
+}

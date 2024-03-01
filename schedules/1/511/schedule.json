@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 511,
+    "targetTitle": "ИКБО-11-22",
+    "fullTitle": "ИКБО-11-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/511",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=511&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=511&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "gLvmDtEGa1i1AZHdpuj7+slC/uwr1l0k9A3EIJAAOr3n2cyStIFZVs6JmOgkjbuE5uzO3udDwWqtF/O8V0KyuQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 579,
+    "targetTitle": "КРБО-01-22",
+    "fullTitle": "КРБО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/579",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=579&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=579&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+RpHTYfuLBJWEBC8p4h/VmbyPVmDy0p6x+6NpZPTzKJ5cmn5qq8HLY6dI92OCCPYmjFD3DWL/j2QzvfORW9JlQ=="
+  }
+}

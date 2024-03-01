@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 297,
+    "targetTitle": "ИКБО-17-21",
+    "fullTitle": "ИКБО-17-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/297",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=297&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=297&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "KQ9PyQTo9VXh4pS/KOaMsctI/uUsmmwsJ02UYqWQXC2DgkZ4xckgJ07CSyAU5tyRrDruzZupeOAU0aK2r7ETow=="
+  }
+}

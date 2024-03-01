@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 702,
+    "targetTitle": "С-407 (В-86)",
+    "fullTitle": "С-407 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/702",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=702&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=702&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "httqSuhNhD605POlVoTy57/+qlkn4RhkM9DKlXmHwTwz3QYj8OYdikEXNpejD0kDZbo83Tw4QlQo24fCeVxHoA=="
+  }
+}

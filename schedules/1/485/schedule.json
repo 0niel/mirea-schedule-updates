@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 485,
+    "targetTitle": "БФБО-03-22",
+    "fullTitle": "БФБО-03-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/485",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=485&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=485&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Z5fyHM+XBuCTFXreAfQDmJrRsTzRC4GfjrXerNxKeph0q5gYj8Jvtzs+amL5owSHozmNKyUu978u3e2oanJ3og=="
+  }
+}

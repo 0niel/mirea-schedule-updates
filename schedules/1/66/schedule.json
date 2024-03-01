@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 66,
+    "targetTitle": "БСБО-05-20",
+    "fullTitle": "БСБО-05-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/66",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=66&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=66&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "5vuGGaRc6rHVpRaoag8Gq3LLyf5crdO5gFlZwUuRy/GEaInjEk2yenIgD1Md05LpHBaHGy9gtGgOojhRiLt5NQ=="
+  }
+}

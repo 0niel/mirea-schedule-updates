@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 480,
+    "targetTitle": "БСБО-13-22",
+    "fullTitle": "БСБО-13-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/480",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=480&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=480&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Qe9nMeld2FC669oeCYWo9yWAjzsrjAYts760vZq3UX3w+wBqz/0rAdBj+7DWFJ+M2eyRkhqHWTkkpy6jRn4cdg=="
+  }
+}

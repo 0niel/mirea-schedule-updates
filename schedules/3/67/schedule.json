@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 67,
+    "targetTitle": "Б-105 (В-78)",
+    "fullTitle": "Б-105 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/67",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=67&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=67&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+2Ez0/wJaGlpO2AGUYtKkPvNngWmUTgKMY1dFGDC/fKgYJeoiQBK7JnJx29SjBBT3/wwz5ZIjKXqHJZLuFyW1g=="
+  }
+}

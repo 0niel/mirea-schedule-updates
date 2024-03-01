@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 255,
+    "targetTitle": "Гантц И. С.",
+    "fullTitle": "Гантц Ирина Сергеевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/255",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=255&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=255&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+EB3mD+PE1K3kEbTZ3+//p+yyktOIBaoAjRuPBZCWnrmHmrkQto5gtK0YiOMTOUJHwskeqc1eNgiRu9DqF32LQ=="
+  }
+}

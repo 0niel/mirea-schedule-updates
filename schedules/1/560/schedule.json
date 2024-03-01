@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 560,
+    "targetTitle": "КВБО-03-22",
+    "fullTitle": "КВБО-03-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/560",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=560&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=560&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "upcuSKGkrj5jFccGyx+cpSJ0BWrfQH3ndm/OR9E4Yik2G06ElGbulBm6mco2SSXPLeG5NYzJpbmL4zVLKFP8rQ=="
+  }
+}

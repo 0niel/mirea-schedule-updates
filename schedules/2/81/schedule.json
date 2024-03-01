@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 81,
+    "targetTitle": "Акишин А. В.",
+    "fullTitle": "Акишин Александр Вячеславович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/81",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=81&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=81&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sVKiPzb5D54xkj+cdhln2NBaKp4XZKsGzrX4eBGeEW3Ca8Mb04ELfw2LDvMYJEWIzpbd8zPCjc2w25ri4V86rg=="
+  }
+}

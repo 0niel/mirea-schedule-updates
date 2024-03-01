@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1069,
+    "targetTitle": "ЭСМО-01-23",
+    "fullTitle": "ЭСМО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1069",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1069&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1069&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "0vXf+NbTHRNXyeKMsUPx/SD5bu31TpNV9vEmyaVMbnf2JEvH1EasZRj5hrKgXxXI+fBypNlSL4+m8m+xwtClkg=="
+  }
+}

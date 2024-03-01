@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1050,
+    "targetTitle": "КБМО-02-22",
+    "fullTitle": "КБМО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1050",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1050&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1050&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "1DglsxaFDCxzakXUEShZffA+FOX/DL/EBw4i82XP6DZjg8HlfL1eZSZms6BoWoVlo1yV4GQrTWURXajtP+LHBA=="
+  }
+}

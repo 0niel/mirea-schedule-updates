@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1029,
+    "targetTitle": "Жаворонок Е. С.",
+    "fullTitle": "Жаворонок Елена Сергеевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1029",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1029&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1029&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "GRd9mcdrmZ11aqxVq4VA2A+4r2yGGclV56+FxfcNsJm7maOg5+EO9RGgW7863+3b7zg7XDwd4UnfoklNFYk+ug=="
+  }
+}

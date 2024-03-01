@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 95,
+    "targetTitle": "Милорадов Г. А.",
+    "fullTitle": "Милорадов Глеб Андреевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/95",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=95&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=95&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sKsuyjutbCy6dgt64ZrQ3oq/yx9/PJVIgQmjVC3glq87RvACSixAdsF0Gp5vaByV8CWmUGHq3Rc5gHHqBQ4orw=="
+  }
+}

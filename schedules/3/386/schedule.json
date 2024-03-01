@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 386,
+    "targetTitle": "И-303 (В-78)",
+    "fullTitle": "И-303 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/386",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=386&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=386&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "X+a0d+2TZ1xDYlJ/F/PKkUlyj0U4buL/yiiUOpAtgzlZgDSB7mXKutpAzjO6J+q1PCuWCJKYD3sNjGkpCU8ubQ=="
+  }
+}

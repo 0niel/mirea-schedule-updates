@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 512,
+    "targetTitle": "Овчинникова М. А.",
+    "fullTitle": "Овчинникова Мария Андреевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/512",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=512&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=512&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "dKRBmJ9elZCdhgvqXIhKsRKf+IY2t3bk+WwkpOb9I4ou+MPevKaIRbYdUN8BN5wYrq9nT94TdUJ9jdpnB5HAUw=="
+  }
+}

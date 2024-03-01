@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 485,
+    "targetTitle": "М-113 (В-86)",
+    "fullTitle": "М-113 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/485",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=485&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=485&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "fxFGXQjrGR3l7qz/L2Es1Kq+tGAaNj4bIhFkgYkTYGsHPTvcw9xJB0Np3UR1esuI3SKzwoqnd3VeCN1ItKQBzQ=="
+  }
+}

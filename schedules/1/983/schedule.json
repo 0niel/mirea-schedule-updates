@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 983,
+    "targetTitle": "УММВ-02-23",
+    "fullTitle": "УММВ-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/983",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=983&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=983&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "qIU1EUJqKG3zvPv2y/BwYBusZX/hctxO78Sqct5NA+ka5VjpBgT7rpD/CLg1nC3L8KABIqbnUdaVDKKktFYa5Q=="
+  }
+}

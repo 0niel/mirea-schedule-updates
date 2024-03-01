@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 925,
+    "targetTitle": "ХЕБО-04-20",
+    "fullTitle": "ХЕБО-04-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/925",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=925&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=925&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "DKyCX15mir4wMF6ZBAxj/qIoTVGylwB+NCCHeG9JnWBav460wsxg6Vzasw9OaDc6X0D+UaIX41ZdOqGT0sd66A=="
+  }
+}

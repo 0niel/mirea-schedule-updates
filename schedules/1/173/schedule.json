@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 173,
+    "targetTitle": "КТСО-06-20",
+    "fullTitle": "КТСО-06-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/173",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=173&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=173&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "2J/uc2EVV2mMJ41/h+FglDj7ni7T5JRkCZYRpSczC0AVU6mhjTpLkiAqpclZoGo6WKLw1jukdKmpq84+Hmv27A=="
+  }
+}

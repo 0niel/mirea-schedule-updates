@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 999,
+    "targetTitle": "Акимова А. А.",
+    "fullTitle": "Акимова Анастасия Александровна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/999",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=999&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=999&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "E4671ispoc/a4TvWpEkB2ncHERHiAwP4FjKwfOIe9F10j3OwDOZ126IJUoOsWJCLPWESx/FT56TU8YKeY7Xk9g=="
+  }
+}

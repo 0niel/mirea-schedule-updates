@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 34,
+    "targetTitle": "Горин Д. С.",
+    "fullTitle": "Горин Денис Станиславович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/34",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=34&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=34&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+j/X6pcPxT9zEFVDpIIiLJdbr0oLDzwns+3jxRYDz1+pmnTfbPVfqfvhGTLs1j2HFKi/gy1zOCu7JN/gNkpxug=="
+  }
+}

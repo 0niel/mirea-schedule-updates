@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1365,
+    "targetTitle": "Крылов А. В.",
+    "fullTitle": "Крылов Александр Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1365",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1365&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1365&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Tdpf/JwUZPDJPRMFXj4iC6lILXhMl6vNxflcmVEdtt5xJW6KsPCyclo37cAdqd58zJvF7QEVIFyRrMiBcsMgyA=="
+  }
+}

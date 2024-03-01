@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 336,
+    "targetTitle": "А-350 (МП-1)",
+    "fullTitle": "А-350 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/336",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=336&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=336&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "odiGEtv4/EFE1VivXJllNfCa9XfWhNagXkvAnrgeV8uC7JKdoONb3ChOxvRMe3gDJgJuuL5fKbz3tTdJuOy22Q=="
+  }
+}

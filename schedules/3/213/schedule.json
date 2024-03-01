@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 213,
+    "targetTitle": "А-301 (МП-1)",
+    "fullTitle": "А-301 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/213",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=213&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=213&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "IbEn20QG3qisiFJGEVHStn24y+Dr6Cr7JPT6RPOv6Fnr8C5Vr2RmvGPuEvvkekmx10WMSNl8WWOGl/Z0nFz1DA=="
+  }
+}

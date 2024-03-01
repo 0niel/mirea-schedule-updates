@@ -8,11 +8,10 @@ namespace MireaScheduleUpdates;
 
 public sealed class ScheduleClient : IDisposable
 {
-    private readonly HttpClient _httpClient = new HttpClient
+    private readonly HttpClient _httpClient = new()
     {
-        BaseAddress = new Uri("https://schedule-of.mirea.ru")
+        BaseAddress = new Uri("https://schedule-of.mirea.ru"),
     };
-
 
     public async IAsyncEnumerable<ScheduleInfo> GetAllSchedules()
     {

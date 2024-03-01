@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 230,
+    "targetTitle": "Б-310 (В-78)",
+    "fullTitle": "Б-310 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/230",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=230&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=230&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "MqqRczK3nbRNKoYy2zPiWLOi7vZIuQI17fk3gkF1dMjd4rJWWrz46O1QsbqCyNSMs+f5MydC+v3x6IQWs1mmIA=="
+  }
+}

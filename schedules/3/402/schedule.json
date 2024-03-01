@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 402,
+    "targetTitle": "Г-208 (В-78)",
+    "fullTitle": "Г-208 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/402",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=402&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=402&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "WNirB7dkXEs7N3LOD3gROiGzdiYDSBo6JUx/L3Vf6Wcya1kNHB7WUJ0tN6l2lImY+LPO0WM616kYowVR01oADQ=="
+  }
+}

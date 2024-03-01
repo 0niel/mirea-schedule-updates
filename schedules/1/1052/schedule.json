@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1052,
+    "targetTitle": "ИНМО-02-22",
+    "fullTitle": "ИНМО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1052",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1052&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1052&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "IJizLMdG3FlO98h4o1Sc5Qh1RiZp6DXMFBS2btWaNUsXe+uibgDEh/5SzOU+lKP8+xMI+KkIr7F+v80jkQoZBA=="
+  }
+}

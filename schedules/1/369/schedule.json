@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 369,
+    "targetTitle": "РСБО-01-21",
+    "fullTitle": "РСБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/369",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=369&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=369&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "VtNgLekajZ5g1Mras80krvhAXoaKou8vvXcO9hgEPItgf1kQesEgpY73d1EELa6NRvXpfrTvXTlZHO1fL8jWnw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 497,
+    "targetTitle": "К-116 (В-86)",
+    "fullTitle": "К-116 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/497",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=497&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=497&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "c6r+Co5Ku2+0ChPlhuPYBT8/2BKmhHxqcRTVNWu9rMHdylpRigBADNVx8vkN+LKRRRUNUCrz2cHJAMF2AqE0aA=="
+  }
+}

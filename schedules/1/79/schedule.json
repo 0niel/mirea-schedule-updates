@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 79,
+    "targetTitle": "БФБО-01-20",
+    "fullTitle": "БФБО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/79",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=79&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=79&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "sCT73WHn6dSqNMd7ZPyo4usUiRe+bpryEUSr5lA+9iDwhaJu3Z3rY0Hvl+atIVxJz+2DyPwEX9JnX1oRbXvyCg=="
+  }
+}

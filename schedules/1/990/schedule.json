@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 990,
+    "targetTitle": "КВМО-02-23",
+    "fullTitle": "КВМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/990",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=990&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=990&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "I+SuO0nYuXEAm1HgfqGAOqlt7w3T+l2hFR/rCEbx+g+sHukTV7Puc3MaWTDedIkXt6HCmwV67kipG/CUKmNcpw=="
+  }
+}

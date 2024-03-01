@@ -26,7 +26,6 @@ await foreach (var schedule in scheduleClient.GetAllSchedules())
 {
     var scheduleDebugView = $"#{handledSchedules} {schedule.FullTitle} {schedule.ScheduleTarget} {schedule.Id}";
     Console.WriteLine($"Handle {scheduleDebugView}");
-    await scheduleStore.WriteScheduleMeta(schedule);
 
     var savedScheduleVersions = await scheduleStore.ReadScheduleVersion(schedule);
 

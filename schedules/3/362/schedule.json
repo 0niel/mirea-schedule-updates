@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 362,
+    "targetTitle": "А-201 (МП-1)",
+    "fullTitle": "А-201 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/362",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=362&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=362&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "JZbXo37ZRE2lgSpsRJJW1Obu4uyVCQuS87asY76/gcsiBB2EsnPYSkr2vv2SB43H5ybb8N6D+dWBUpPeO0Z8bQ=="
+  }
+}

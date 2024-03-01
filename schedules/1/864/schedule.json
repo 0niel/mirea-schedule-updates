@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 864,
+    "targetTitle": "УНБО-03-23",
+    "fullTitle": "УНБО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/864",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=864&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=864&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "mktHRGN9RlYONhtTYqUZqFzv0LvbBEEhP+JSEm7cWzf/1/xmYumyqUMhhhvdE7pFZSwf3PeF+wR+B4fok7EJLw=="
+  }
+}

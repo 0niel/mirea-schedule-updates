@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 60,
+    "targetTitle": "Беликов В. В.",
+    "fullTitle": "Беликов Владимир Вячеславович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/60",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=60&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=60&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "pj0Hy0u61KMbfMc2map+8zh75yQvSEOLYHc+e0Xng0QTECVmty6hKzHGxcq0sRtTdlu3l6bL9S7XJ1d6cCs0uQ=="
+  }
+}

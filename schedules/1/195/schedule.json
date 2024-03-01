@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 195,
+    "targetTitle": "УКБО-02-20",
+    "fullTitle": "УКБО-02-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/195",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=195&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=195&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "AbEsRcY9FG46l+GbeKCiuoUizDaCopebCJyPG5+JN65ehH1kvyMc6fILEldQtZ/lUmRz79UexSzAG+0QLaSh4Q=="
+  }
+}

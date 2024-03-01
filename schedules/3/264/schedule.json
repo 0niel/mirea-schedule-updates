@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 264,
+    "targetTitle": "А-61 (МП-1)",
+    "fullTitle": "А-61 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/264",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=264&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=264&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "VzL/7Pt6M8WCdsxu7L0v3zXmW6+Qmj1qpQw11zJBdWiuQAKubezaLRiA6mHeBKfh7gN6GzZ4hjldIrjNaviB4A=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1077,
+    "targetTitle": "РРМО-01-23",
+    "fullTitle": "РРМО-01-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1077",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1077&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1077&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "8/f4hY3RCbFEtTNs+cPKzLJE35nmvWEiAfHgUybCYRqcJzvlwCS10XozoeISpjldkam/kM8GggPIxqUsCyTT1g=="
+  }
+}

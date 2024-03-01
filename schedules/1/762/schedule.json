@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 762,
+    "targetTitle": "ИКБО-74-23",
+    "fullTitle": "ИКБО-74-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/762",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=762&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=762&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "NDAgncS9ZxZ9YgDt3UcqvEgWX3u3Kx4qv4M6iY583pI6BuPMXNfnZaPHFnmeY4F/sUp/MIv4HrCN2E+RN4lzBQ=="
+  }
+}

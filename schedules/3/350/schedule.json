@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 350,
+    "targetTitle": "О-401 (В-86)",
+    "fullTitle": "О-401 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/350",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=350&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=350&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "HTra54ElLnwR70s4tsB8HHnTSjMPowIMgs9Tvg1z9lGdx5wlGNgridrJpm/vBc5bbnezXY2/BQ9uvMJSpGIr9w=="
+  }
+}

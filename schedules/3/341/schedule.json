@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 341,
+    "targetTitle": "Б-216-а (В-78)",
+    "fullTitle": "Б-216-а (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/341",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=341&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=341&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "gqQb9dg1U+nMw8/CB9Es3WGL6YOFDSOAOOuDH39NvEYsSI4i2lfzgw6RmeqlJ7TLQEW4sk4aLveHB8Q/H83UZQ=="
+  }
+}

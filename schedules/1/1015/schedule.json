@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1015,
+    "targetTitle": "РКМО-02-23",
+    "fullTitle": "РКМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1015",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1015&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1015&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "CGTwE00QG6Sud0Z0KQt/VKNNDIUE6XIJvY0/Q/+kv65Db4X/NDXbf/cp4ofJqC6GVEWVT/DAOubvyGnz2I8NKA=="
+  }
+}

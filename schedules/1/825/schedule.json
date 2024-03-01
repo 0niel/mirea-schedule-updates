@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 825,
+    "targetTitle": "РКБО-03-23",
+    "fullTitle": "РКБО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/825",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=825&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=825&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "vl6VxswWQHD+GqVLKzG2V+Uf6m3rVdIVSu8fg6VRq6tmbsVMqOgTcYJ5haoc+2Aw2pTZun68SiACqeg4p/E2+A=="
+  }
+}

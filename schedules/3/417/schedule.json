@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 417,
+    "targetTitle": "ФОК-2 (В-78)",
+    "fullTitle": "ФОК-2 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/417",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=417&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=417&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "o4mR0rKd9mbqh20afrsZcWXXNGuwD9YqrwR0sDl4AK4qVG4xyCh/HbSr6qrp8odcPEmA06SRJxjuRCleTqA79A=="
+  }
+}

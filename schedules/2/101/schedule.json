@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 101,
+    "targetTitle": "Артемова С. В.",
+    "fullTitle": "Артемова Светлана Валерьевна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/101",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=101&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=101&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ktu4qMiX1j2+Qfh6/47xBXgKBfFBSZs0yoz2VZ7tEmy7gOr8SFIMATnkQzJOJCSrv/70xOxrClGsePmPcGnxoQ=="
+  }
+}

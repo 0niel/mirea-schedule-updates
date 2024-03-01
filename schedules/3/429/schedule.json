@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 429,
+    "targetTitle": "И-328 (В-78)",
+    "fullTitle": "И-328 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/429",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=429&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=429&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "gXfx6QrKFWTcfxhlvS5FI8BriGQQyNHb9nicTmSfP5RK/GOztl+M5JA07bnt/FXzPhHSu//2tVj1OSiFZzXVGA=="
+  }
+}

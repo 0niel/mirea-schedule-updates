@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 612,
+    "targetTitle": "ТКБО-04-22",
+    "fullTitle": "ТКБО-04-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/612",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=612&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=612&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "V8QoNmhv16LTehz4/xzNU7sdBNo141ZEX8vr8ZnouT5h3x8iJOeJ7kDNZ5cAuN3psWca5+QjyCw+PKLjGFHRkA=="
+  }
+}

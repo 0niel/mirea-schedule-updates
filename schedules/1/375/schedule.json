@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 375,
+    "targetTitle": "ТДБО-01-21",
+    "fullTitle": "ТДБО-01-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/375",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=375&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=375&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "fnlVe4PVifk15lZ2oHgcC/0aHf3fdZO6XuFhFTPhUrBY7+ntrGvTQWBcqv2xp/3hO3J96wSJPKHmD76BsZGICw=="
+  }
+}

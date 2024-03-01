@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 337,
+    "targetTitle": "Б-215 (В-78)",
+    "fullTitle": "Б-215 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/337",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=337&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=337&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "eAaTwi3jsl/fX5SsR1WDMrz0TfMvFeVtbMx1wY/NV4jNlZfA3p1aMMqfu1XZ+mE+8R3Za1h6j+kFe7UISy+wxg=="
+  }
+}

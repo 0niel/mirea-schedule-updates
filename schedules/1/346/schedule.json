@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 346,
+    "targetTitle": "КМБО-02-21",
+    "fullTitle": "КМБО-02-21",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/346",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=346&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=346&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "g9Wc5KkTwyRQEoCokviJxyrbxtX98tzitIwEjH1u1jXc15Jj1V6FYYcFbjRvh4WdeGVBJdau4CZdfPh6WeXHFg=="
+  }
+}

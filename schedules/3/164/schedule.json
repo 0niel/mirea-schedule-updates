@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 164,
+    "targetTitle": "А-206 (В-78)",
+    "fullTitle": "А-206 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/164",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=164&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=164&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "a2q2sWJj1IQJzpp0CLjpK63VgZo0eOkYYqdnF2xod+cNuYJadUVt9mye9OCQn4gQOi8pPiuoG2jzpMFHtL4Ppg=="
+  }
+}

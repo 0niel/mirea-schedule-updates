@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 193,
+    "targetTitle": "ТШБО-01-20",
+    "fullTitle": "ТШБО-01-20",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/193",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=193&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=193&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "mj2fReXfZHXnMFKSCUwTqKGMWxjDQWo8xSBX2wl4cGhB6eiHtR01UxB6EeDQ13J4LTCPSdJXOyvq7Jj+RDXdMg=="
+  }
+}

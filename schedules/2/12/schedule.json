@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 12,
+    "targetTitle": "Котилевец И. Д.",
+    "fullTitle": "Котилевец Игорь Денисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/12",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=12&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=12&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "4j3XHH7uE3ZQCv5KQz4pq0Tdh9CXJBbHbiooF2Su9cHF5y66+ldp5YYfaq8EhzU5VWk+y39JGpUfWXrHpdl9Cg=="
+  }
+}

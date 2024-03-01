@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 570,
+    "targetTitle": "Б-310 (МП-1)",
+    "fullTitle": "Б-310 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/570",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=570&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=570&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "8DcnqyZf+PChFJJWETzYfffnCQJrrOIYISPiBHIRIuH2jsWjEA/f2eywV0vJWRfIjCrpxTbiOOb3zjdO9P1zcw=="
+  }
+}

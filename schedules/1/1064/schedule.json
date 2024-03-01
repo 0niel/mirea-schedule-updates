@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1064,
+    "targetTitle": "ИКМО-04-22",
+    "fullTitle": "ИКМО-04-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1064",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1064&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1064&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "H9cfRTytLI7c6j3mcuBeO16aIsnt9onKth2SEeQS/RA3TvD0wLwncfrxN3iGx9Mrpf9Knw+SccYsIhg1wx9Ljw=="
+  }
+}

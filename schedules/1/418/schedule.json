@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 418,
+    "targetTitle": "ХЕБО-05-22",
+    "fullTitle": "ХЕБО-05-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/418",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=418&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=418&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "TNQcavUaa6/DJizGC21S1Xpe8GrIrKLg8G75qFS0abctndm1RImuT3Xz1el5kuoLi6APBa0wguJbcqw0fiOUNg=="
+  }
+}

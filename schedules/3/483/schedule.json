@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 483,
+    "targetTitle": "К-3 (В-86)",
+    "fullTitle": "К-3 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/483",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=483&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=483&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "8pzQxmTb5Hc1MP5rg9b4WYfkWQhnm+91j+uBwcY+vHnQZ7MDoOl+YTYqGo/bSCl+2a8474JG4CgzWJ49j44WOQ=="
+  }
+}

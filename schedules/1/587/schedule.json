@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 587,
+    "targetTitle": "КТСО-01-22",
+    "fullTitle": "КТСО-01-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/587",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=587&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=587&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "ZbaQZ6HzBhVacf0iUNAClsBVeywTlHkcapgEtZXYU2VBEXwj55zwGcnRNGd3S2RD+wWrd5mhnhjIG7aujtSkLw=="
+  }
+}

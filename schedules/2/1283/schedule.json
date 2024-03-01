@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1283,
+    "targetTitle": "Дворецкий А. Г.",
+    "fullTitle": "Дворецкий Артур Геннадьевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1283",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1283&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1283&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "38BP2yfdv0KH1mp+u4jw8AqVqvt8evrSj5mkVaLPtriYYXwCYKi+9abdFsZdKtszLqvUcY/o6Lms1UW2SEgI5Q=="
+  }
+}

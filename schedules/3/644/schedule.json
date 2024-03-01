@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 644,
+    "targetTitle": "Б-305 (МП-1)",
+    "fullTitle": "Б-305 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/644",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=644&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=644&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "LyRHyL59UB6PBZt9qa06hLEUCTjD1RifZx5rzCJpBO7mXD5he3v7P90bAW8GJDuSLEU0iasGt1cbUnil6485BA=="
+  }
+}

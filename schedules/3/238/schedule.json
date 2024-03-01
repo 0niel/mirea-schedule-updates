@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 238,
+    "targetTitle": "Б-207 (В-78)",
+    "fullTitle": "Б-207 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/238",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=238&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=238&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "7oyJ1qiyhyoyOWQEeffk3o+ku6emIOvALiQIkKWQQ4M7+H1N2PcwgjHCLe9jjtYM6Sr6nXJzPNNSxTvRCoAuxQ=="
+  }
+}

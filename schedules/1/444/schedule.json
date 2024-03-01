@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 444,
+    "targetTitle": "БАСО-04-22",
+    "fullTitle": "БАСО-04-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/444",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=444&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=444&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "8FgepttR67aO7cs39oZQGt5J4CFZnd144Q8N+nlCMFzLP2MBu2qxzAhW1yiV5hW+TVQJr2c/M7r/aY4U3NTOig=="
+  }
+}

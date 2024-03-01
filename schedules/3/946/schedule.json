@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 946,
+    "targetTitle": "А-135 (МП-1)",
+    "fullTitle": "А-135 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/946",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=946&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=946&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "wXhHtbKoEaknJW4OPZsdHRK6ptjtHVbYdgyee8jQ0Xcwwg/rANQuLZ48hJmpOZbxc4G5JjtWuuN0OP3+W6DpyA=="
+  }
+}

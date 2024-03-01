@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1117,
+    "targetTitle": "УЭМВ-02-22",
+    "fullTitle": "УЭМВ-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1117",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1117&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1117&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "snrcVnDKjiioASmax2FWRVnQTTyxPWTIi9EYGbgMkLt50bqq7dkLgvCyZy5sM/itPz9/NGo9AxHR0uGlND1Lrg=="
+  }
+}

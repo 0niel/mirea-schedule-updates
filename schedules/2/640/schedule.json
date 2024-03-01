@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 640,
+    "targetTitle": "Томорадзе И. В.",
+    "fullTitle": "Томорадзе Илья Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/640",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=640&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=640&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "CuO+JtbVAKNhDH0Kb5t7WslpQGQMJXoc3ZKgBIF6qGfT6cexzC2Au59pGdvprE9TvqhrhMwKjQT9UVb8HOJKgg=="
+  }
+}

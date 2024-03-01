@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 607,
+    "targetTitle": "А-109 (МП-1)",
+    "fullTitle": "А-109 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/607",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=607&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=607&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "n+67RppHCZG47yaoexygu3xzzzIDtRoEUr58qq+AmF74daUcsZkL0LJguxiOop49fSY7B7D8ozyauspfsiqibw=="
+  }
+}

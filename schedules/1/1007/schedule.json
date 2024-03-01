@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1007,
+    "targetTitle": "ИВМО-04-22",
+    "fullTitle": "ИВМО-04-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1007",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1007&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1007&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "9ifo60Q/p6Vdvg/zSkCWYTGZRzLnlvdflquuBn7VUu+M2iWZTjZvk1MXfoPmYdDFCRNYm3iHYQV23NBoCb6BZg=="
+  }
+}

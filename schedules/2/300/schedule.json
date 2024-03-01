@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 300,
+    "targetTitle": "Витязев В. В.",
+    "fullTitle": "Витязев Владимир Викторович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/300",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=300&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=300&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "UOrNuBERJ276noPsbhUVSjGMOXIboOakvjUFnFFrnl9HSGaeBHBq/yq51JZ3G59RGSF8ng3T0z5/C4ujSCwHpQ=="
+  }
+}

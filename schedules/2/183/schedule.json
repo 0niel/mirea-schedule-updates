@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 183,
+    "targetTitle": "Матусевич А. И.",
+    "fullTitle": "Матусевич Андрей Иванович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/183",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=183&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=183&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "U83ePzZSG6lCheFos4AMkhrP6ItEsw5ve3KfroJ45I+NT9LxmsRsgVp50LDX7lZbrc+cuObLqsdcfnElm1F8UA=="
+  }
+}

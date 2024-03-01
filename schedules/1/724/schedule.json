@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 724,
+    "targetTitle": "ИВБО-13-23",
+    "fullTitle": "ИВБО-13-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/724",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=724&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=724&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "30K0v93fg/miMvl3M854JY9Y6PWlGjJYhxyKrSOOQot0v8CpHuRVYWa9HUeosHpdSeoJcFLCVTEjTYFv7waqtA=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1023,
+    "targetTitle": "ХБМО-02-23",
+    "fullTitle": "ХБМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1023",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1023&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1023&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "tYeg9N5X6fXP/8z1510NSBmpAbrhfci1I+g3YqT7hPW3IZZr5Lm8SAC2jiLFAwnldaMShD5P4JyEWsCFm/Kc+A=="
+  }
+}

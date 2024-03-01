@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 703,
+    "targetTitle": "БСБО-06-23",
+    "fullTitle": "БСБО-06-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/703",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=703&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=703&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "uX0vhfln0155QUlRWfFJjKUQaA6LkGjKLw5Lm7y3nmGN9x7E796KY1n4SkY12ZqrhVCRfukuH/664yWoBflr6w=="
+  }
+}

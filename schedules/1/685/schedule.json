@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 685,
+    "targetTitle": "БББО-11-23",
+    "fullTitle": "БББО-11-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/685",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=685&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=685&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "XGjWJ0b7JabwResPbHN+IPb3BpMReekzHF1enICHb75PzxMiMZEuZZdrCMZ2rc3phH8DidljzqAibNEzekq7WQ=="
+  }
+}

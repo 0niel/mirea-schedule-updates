@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 463,
+    "targetTitle": "И-330 (В-78)",
+    "fullTitle": "И-330 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/463",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=463&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=463&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "cKfXtmu+f45HnfxZEowxZBJCNasAgSS5xugi8b6eHT0WhiXpODgqnoHn6SsFByvHRRcp9smJSnimxcEn+zf6WA=="
+  }
+}

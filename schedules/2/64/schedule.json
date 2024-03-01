@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 64,
+    "targetTitle": "Чередник И. В.",
+    "fullTitle": "Чередник Игорь Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/64",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=64&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=64&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "3HA38UnvylgqQS7S8wkppB2jT/kRVZPHAbw9D294+hUZGCVxi4HW8OSKrcvAL0c9guxMC1Ix4k5pdnyxA7x+Lg=="
+  }
+}

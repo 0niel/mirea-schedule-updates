@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1322,
+    "targetTitle": "Томс Р. В.",
+    "fullTitle": "Томс Роман Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1322",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1322&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1322&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "l/L8FOASd8ellKZdAI9NM0zN0yRYCF2BdG7DkOYVNPwnurlEmmtscyBgP4kcpGFDg4bKmk59O4NhmNSsOGQOgQ=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 374,
+    "targetTitle": "Б-312 (МП-1)",
+    "fullTitle": "Б-312 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/374",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=374&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=374&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "oJnqlK/yPWPkWd0OUOqGSAUBGbV4fU0GtNJkFWjmC6MZTWgYgztsp3DurLXV5wALH2/POltzHWhS0G4ai8qvEw=="
+  }
+}

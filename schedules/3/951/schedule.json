@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 951,
+    "targetTitle": "О-118 (В-86)",
+    "fullTitle": "О-118 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/951",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=951&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=951&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "euWEjQFUPX06aB+DfNdVw/dEtapOOPjgtQp9S68MHfCUzFH5ae11ExqBVN/9tQY0XbT+6jmXBrliacQEmE8xDg=="
+  }
+}

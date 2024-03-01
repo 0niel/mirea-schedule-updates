@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 178,
+    "targetTitle": "А-314 (В-78)",
+    "fullTitle": "А-314 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/178",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=178&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=178&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "t0jq/HX7LbjRZ55LTZN0zI6nCogVfgAwY4wlM1K6xf8bJQFzBIopFdQbgvvdX2BOy9GsaUUE4Ugp43CaPhy8zw=="
+  }
+}

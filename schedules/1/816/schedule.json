@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 816,
+    "targetTitle": "КТСО-03-23",
+    "fullTitle": "КТСО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/816",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=816&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=816&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "B7pMPiAKJghCcYo0tV+jZxwKthnucuCZJBjRuVIQNtBCURNYUjMStKjv8xwJe3xzen+b+tTHLRNvwE8xdPm/mg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 795,
+    "targetTitle": "О-302 (В-86)",
+    "fullTitle": "О-302 (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/795",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=795&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=795&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "r7ICvydh6YJnQPkdTPayAneA3t3/4/1Q7nv9Y2zDmoPZ74uy704tlIB5YBytV/9F00q9uTbbuZ6Kv0WwTaqBSg=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 20,
+    "targetTitle": "Серов В. А.",
+    "fullTitle": "Серов Владимир Александрович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/20",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=20&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=20&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Hql2uqOthc0cOufxSxKWEH20oa+Fa2mqfYSRoXvSA0zwpSMabD7LGL/1b/ZV9vytPPgckOQiYS+gieuR9EDCnA=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1,
+    "targetTitle": "Трубиенко О. В.",
+    "fullTitle": "Трубиенко Олег Владимирович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "hZB7S4L5kx0AqhcW4hTJxUjeIl33XCf4p+M90pIwjbNt5uUC7vUn90pX6DdbpkDy6qfEVE5nQ5t/YwKEqI/Nzw=="
+  }
+}

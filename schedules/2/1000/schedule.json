@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1000,
+    "targetTitle": "Ожерелкова Л. М.",
+    "fullTitle": "Ожерелкова Лилия Мухарамовна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/1000",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=1000&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=1000&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "73uPXTWgcCdXGCvbCP56DIEF9J6OCWSJSrlJslUcNYOjCTh7cY3U6XKOuvGrISYxxpCh8bqXmmWySKWRDiwbPQ=="
+  }
+}

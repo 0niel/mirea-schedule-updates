@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 174,
+    "targetTitle": "А-354 (МП-1)",
+    "fullTitle": "А-354 (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/174",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=174&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=174&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "IdN+YF3jG+TkFWd/UvqAMcKihqbpBMPIIfjdZYDHGy5ihuLhTz5trL0F7WJ4un2VNF2NEPv85SFE0DTWeGop+A=="
+  }
+}

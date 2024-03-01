@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 75,
+    "targetTitle": "Федоров В. Б.",
+    "fullTitle": "Федоров Виктор Борисович",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/75",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=75&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=75&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "aazcGrJI2kLzTq43FTEREJwFS1apC8qclk4FUk4AEaEK36GLmE4m3ABOiglJP1XNeeXgknIPHpNyCYVPY2OU+A=="
+  }
+}

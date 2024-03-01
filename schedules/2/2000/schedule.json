@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 2000,
+    "targetTitle": "Бакеева И. В.",
+    "fullTitle": "Бакеева Ирина Викторовна",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/2000",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=2000&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=2000&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "p4gcD962VJWOsS+pq6ZLaEFE9vufR2Yuu2aLJ7FwibX0gX4ugkIneRH7AD/iuXVm1BQU+Db4BcgNIfew5Rs1dg=="
+  }
+}

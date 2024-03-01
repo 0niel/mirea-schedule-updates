@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 944,
+    "targetTitle": "А-243-а (МП-1)",
+    "fullTitle": "А-243-а (МП-1)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/944",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=944&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=944&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "LNZUjmCvF7jX6yDq1Wxq+R+b4GPdpnphSkkP6kiGUTM3UPikcSLqQKbpIKIL/JfGtXM3/hqe2uaiwDw9cuAI+w=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 889,
+    "targetTitle": "ХЕБО-03-23",
+    "fullTitle": "ХЕБО-03-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/889",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=889&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=889&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "/CBqd/rrODiQw9I6NX4GGiHbApxr4cscyK7eqvzutC/TVQIBMusNWYIhAKyapZzRRiA90jLwx/hfkzHnsos+pQ=="
+  }
+}

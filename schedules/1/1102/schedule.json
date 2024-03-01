@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 1102,
+    "targetTitle": "ХЕМО-02-23",
+    "fullTitle": "ХЕМО-02-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/1102",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=1102&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=1102&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "geV9jI/Fw58BM0/1Y1zXIYS92/ijcSFsNxDLToPN2wxuIZ57YidMgYHsZ0LWxxEl5wUoph+pRsYA9po+MMfuNA=="
+  }
+}

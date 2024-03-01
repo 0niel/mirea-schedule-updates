@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 798,
+    "targetTitle": "ККСО-05-23",
+    "fullTitle": "ККСО-05-23",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/798",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=798&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=798&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "WLExNNn/dol2grv/f3x+zWuuP2ggJt+3CjWk72wxq+OQf2Q74UVEYxTVkQUKC5vF9y2F+PBCWjO1vfBOqulEQw=="
+  }
+}

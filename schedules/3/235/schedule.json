@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 235,
+    "targetTitle": "Б-308 (В-78)",
+    "fullTitle": "Б-308 (В-78)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/235",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=235&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=235&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "G9Myvsb6I9xRnITUa0jwOxq7duA07uCGbp7iifCPrO3srpH5WCYqHfQ20lHahJeCasKITGvPfDh1DgPGmabARw=="
+  }
+}

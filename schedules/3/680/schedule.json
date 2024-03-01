@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 680,
+    "targetTitle": "С-223а (В-86)",
+    "fullTitle": "С-223а (В-86)",
+    "scheduleTarget": 3,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/680",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=680&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=680&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "Eqe6vKSRu8QDz1SyMWihNyC62+OiT0ZwfxDlMD64kBNUi5McG3Yoc8aPkgWCMGSYAK8PnfM2s3GuKHeHirxO5A=="
+  }
+}

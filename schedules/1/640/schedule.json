@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 640,
+    "targetTitle": "УУБО-02-22",
+    "fullTitle": "УУБО-02-22",
+    "scheduleTarget": 1,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/1/640",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=1&id=640&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=1&id=640&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "+CFX/uElrVxWK8pdeYkC2XBKI22cj1f8qv0Ntr45qK9OfrwBVav5lA+MDO04rA1NuP0Pp7J7FmgW+EHno5bimw=="
+  }
+}

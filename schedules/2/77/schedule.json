@@ -1,0 +1,15 @@
+{
+  "hash": {
+    "id": 77,
+    "targetTitle": "Петрусевич Д. А.",
+    "fullTitle": "Петрусевич Денис Андреевич",
+    "scheduleTarget": 2,
+    "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/2/77",
+    "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=2&id=77&asImage=True",
+    "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=2&id=77&asImage=True"
+  },
+  "version": {
+    "hashVersion": 3,
+    "hash": "BxlFmJ3Qx7GV6U6tfs3KqVk2Dlw/7DM2Y7L5mYIPcf36Q9zONAp3HVLWT/wGOTkTg/hApdIPT38cmZZsAAJzVA=="
+  }
+}
