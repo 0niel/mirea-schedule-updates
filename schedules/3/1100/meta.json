@@ -1,0 +1,9 @@
+{
+  "id": 1100,
+  "targetTitle": "2 (Колледж)",
+  "fullTitle": "2 (Колледж)",
+  "scheduleTarget": 3,
+  "iCalLink": "https://schedule-of.mirea.ru/schedule/api/ical/3/1100",
+  "scheduleImageLink": "https://schedule-of.mirea.ru/schedule/genericschedule?type=3&id=1100&asImage=True",
+  "scheduleUpdateImageLink": "https://schedule-of.mirea.ru/schedule/genericupdate?type=3&id=1100&asImage=True"
+}
